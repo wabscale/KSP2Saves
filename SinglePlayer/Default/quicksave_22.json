@@ -1,0 +1,1108 @@
+{
+  "Metadata": {
+    "VersionString": "0.1.0",
+    "Name": "quicksave_22",
+    "Description": "",
+    "Filepath": "C:/users/steamuser/AppData/LocalLow/Intercept Games/Kerbal Space Program 2\\Saves\\SinglePlayer\\Default\\quicksave_22.json",
+    "UniverseTime": 1846082.9227471447,
+    "ThumbnailImagePath": "C:/users/steamuser/AppData/LocalLow/Intercept Games/Kerbal Space Program 2\\Saves\\SinglePlayer\\Default\\quicksave_22.jpg",
+    "HostPlayerActiveVesselName": "",
+    "SaveCreatedTime": "2023-12-23T04:15:20.7180726Z",
+    "SavedGameType": "Quick",
+    "AvailableScience": 337.0,
+    "CampaignType": "SinglePlayer",
+    "NewPlayerIsFTUEEnabled": false,
+    "GameMode": "ExplorationMode"
+  },
+  "Properties": {
+    "BoolProperties": {
+      "NoCrashDamage": false,
+      "DisableGravity": false,
+      "DisableAerodynamics": false,
+      "DisableThermodynamics": false,
+      "IgnoreMaxTemp": true,
+      "UnlockAllParts": false
+    }
+  },
+  "GalaxyDefinitionKey": "GalaxyDefinition_Default",
+  "SessionManager": {
+    "DifficultyOptions": {
+      "Difficulty": "Normal",
+      "AllowRevert": true,
+      "AllowQuickLoad": true,
+      "IncludeStockVessels": true,
+      "DockingTolerance": 1.5,
+      "CommNetRequired": true,
+      "UnbreakableJoints": false,
+      "InfiniteFuel": false,
+      "InfinitePower": false,
+      "HeatEnabled": true,
+      "HeatScaling": 1.0,
+      "HeatPartDestruction": true,
+      "StartingScience": 0,
+      "ScienceRewards": 1.0,
+      "MissionRewards": 1.0
+    },
+    "DefaultDifficultyOptions": {
+      "Difficulty": "Normal",
+      "AllowRevert": true,
+      "AllowQuickLoad": true,
+      "IncludeStockVessels": true,
+      "DockingTolerance": 1.5,
+      "CommNetRequired": true,
+      "UnbreakableJoints": false,
+      "InfiniteFuel": false,
+      "InfinitePower": false,
+      "HeatEnabled": true,
+      "HeatScaling": 1.0,
+      "HeatPartDestruction": true,
+      "StartingScience": 0,
+      "ScienceRewards": 1.0,
+      "MissionRewards": 1.0
+    }
+  },
+  "SessionGuid": "4b580e14-4985-4dd7-8f41-1b5f6254d2a6",
+  "Agencies": [
+    {
+      "AgencyId": 1,
+      "AgencyName": "Kerbal Space Agency",
+      "SubmittedResearchReports": [
+        {
+          "ExperimentID": "CrewObservation",
+          "ResearchLocationID": "Kerbin_Atmosphere",
+          "ResearchReportType": "DataType",
+          "FinalScienceValue": 4.0
+        },
+        {
+          "ExperimentID": "CrewObservation",
+          "ResearchLocationID": "Kerbin_Landed_KerbinKSC",
+          "ResearchReportType": "DataType",
+          "FinalScienceValue": 4.0
+        },
+        {
+          "ExperimentID": "CrewObservation",
+          "ResearchLocationID": "Kerbin_LowOrbit",
+          "ResearchReportType": "DataType",
+          "FinalScienceValue": 24.0
+        },
+        {
+          "ExperimentID": "EnvironmentSurvey",
+          "ResearchLocationID": "Kerbin_LowOrbit",
+          "ResearchReportType": "DataType",
+          "FinalScienceValue": 30.0
+        },
+        {
+          "ExperimentID": "EnvironmentSurvey",
+          "ResearchLocationID": "Kerbin_LowOrbit",
+          "ResearchReportType": "SampleType",
+          "FinalScienceValue": 30.0
+        },
+        {
+          "ExperimentID": "EnvironmentSurvey",
+          "ResearchLocationID": "Kerbin_Atmosphere",
+          "ResearchReportType": "DataType",
+          "FinalScienceValue": 5.0
+        },
+        {
+          "ExperimentID": "EnvironmentSurvey",
+          "ResearchLocationID": "Kerbin_Atmosphere",
+          "ResearchReportType": "SampleType",
+          "FinalScienceValue": 5.0
+        },
+        {
+          "ExperimentID": "CrewObservation",
+          "ResearchLocationID": "Kerbin_Splashed_KerbinWater",
+          "ResearchReportType": "DataType",
+          "FinalScienceValue": 4.0
+        },
+        {
+          "ExperimentID": "EnvironmentSurvey",
+          "ResearchLocationID": "Kerbin_HighOrbit",
+          "ResearchReportType": "DataType",
+          "FinalScienceValue": 60.0
+        },
+        {
+          "ExperimentID": "CrewObservation",
+          "ResearchLocationID": "Kerbin_HighOrbit",
+          "ResearchReportType": "DataType",
+          "FinalScienceValue": 48.0
+        },
+        {
+          "ExperimentID": "EnvironmentSurvey",
+          "ResearchLocationID": "Mun_HighOrbit",
+          "ResearchReportType": "DataType",
+          "FinalScienceValue": 50.0
+        },
+        {
+          "ExperimentID": "CrewObservation",
+          "ResearchLocationID": "Mun_HighOrbit",
+          "ResearchReportType": "DataType",
+          "FinalScienceValue": 40.0
+        },
+        {
+          "ExperimentID": "EnvironmentSurvey",
+          "ResearchLocationID": "Kerbin_HighOrbit",
+          "ResearchReportType": "SampleType",
+          "FinalScienceValue": 60.0
+        },
+        {
+          "ExperimentID": "EnvironmentSurvey",
+          "ResearchLocationID": "Mun_HighOrbit",
+          "ResearchReportType": "SampleType",
+          "FinalScienceValue": 50.0
+        },
+        {
+          "ExperimentID": "CrewObservation",
+          "ResearchLocationID": "Kerbin_Landed_KerbinDesert",
+          "ResearchReportType": "DataType",
+          "FinalScienceValue": 4.0
+        },
+        {
+          "ExperimentID": "CrewObservation",
+          "ResearchLocationID": "Kerbin_Landed_KerbinMountain",
+          "ResearchReportType": "DataType",
+          "FinalScienceValue": 4.0
+        },
+        {
+          "ExperimentID": "EnvironmentSurvey",
+          "ResearchLocationID": "Mun_Landed_MunCraters",
+          "ResearchReportType": "DataType",
+          "FinalScienceValue": 30.0
+        },
+        {
+          "ExperimentID": "EnvironmentSurvey",
+          "ResearchLocationID": "Mun_Landed_MunHighlands",
+          "ResearchReportType": "DataType",
+          "FinalScienceValue": 30.0
+        },
+        {
+          "ExperimentID": "EnvironmentSurvey",
+          "ResearchLocationID": "Mun_Landed_MunHighlands",
+          "ResearchReportType": "SampleType",
+          "FinalScienceValue": 30.0
+        }
+      ],
+      "SciencePointCapacity": 1517,
+      "AdditionalSciencePoints": 0,
+      "ColorBase": {
+        "r": 0.654902,
+        "g": 0.6666667,
+        "b": 0.6862745,
+        "a": 1.0
+      },
+      "ColorAccent": {
+        "r": 0.4117647,
+        "g": 0.443137258,
+        "b": 0.5176471,
+        "a": 1.0
+      },
+      "FlagSpriteLocation": "flag_AGY_Default",
+      "MissionSaveData": [
+        {
+          "MissionID": "Main_Kerbin_01",
+          "CompletedStages": [
+            {
+              "PlayerId": 1,
+              "StageIds": [
+                0,
+                15
+              ],
+              "CurrentStageIndex": 1
+            }
+          ],
+          "IsNew": false,
+          "IsActive": false,
+          "Available": false,
+          "Completed": true,
+          "TurnedIn": true
+        },
+        {
+          "MissionID": "Main_Kerbin_02",
+          "CompletedStages": [
+            {
+              "PlayerId": 1,
+              "StageIds": [
+                0,
+                1
+              ],
+              "CurrentStageIndex": 1
+            }
+          ],
+          "IsNew": false,
+          "IsActive": false,
+          "Available": false,
+          "Completed": true,
+          "TurnedIn": true
+        },
+        {
+          "MissionID": "KSP2Mission_Secondary_Kerbin_Buoyancy",
+          "CompletedStages": [
+            {
+              "PlayerId": 1,
+              "StageIds": [
+                0,
+                15
+              ],
+              "CurrentStageIndex": 1
+            }
+          ],
+          "IsNew": false,
+          "IsActive": false,
+          "Available": false,
+          "Completed": true,
+          "TurnedIn": true
+        },
+        {
+          "MissionID": "Main_Kerbin_03",
+          "CompletedStages": [
+            {
+              "PlayerId": 1,
+              "StageIds": [
+                0,
+                1
+              ],
+              "CurrentStageIndex": 1
+            }
+          ],
+          "IsNew": false,
+          "IsActive": false,
+          "Available": false,
+          "Completed": true,
+          "TurnedIn": true
+        },
+        {
+          "MissionID": "KSP2Mission_Secondary_Kerbin_Experiment",
+          "CompletedStages": [
+            {
+              "PlayerId": 1,
+              "StageIds": [
+                0,
+                15
+              ],
+              "CurrentStageIndex": 1
+            }
+          ],
+          "IsNew": false,
+          "IsActive": false,
+          "Available": false,
+          "Completed": true,
+          "TurnedIn": true
+        },
+        {
+          "MissionID": "KSP2Mission_Secondary_Kerbin_EVASpace",
+          "CompletedStages": [
+            {
+              "PlayerId": 1,
+              "StageIds": [
+                0,
+                15
+              ],
+              "CurrentStageIndex": 1
+            }
+          ],
+          "IsNew": false,
+          "IsActive": false,
+          "Available": false,
+          "Completed": true,
+          "TurnedIn": true
+        },
+        {
+          "MissionID": "Main_MunOrBust_04",
+          "CompletedStages": [
+            {
+              "PlayerId": 1,
+              "StageIds": [
+                16,
+                10
+              ],
+              "CurrentStageIndex": 1
+            }
+          ],
+          "IsNew": false,
+          "IsActive": false,
+          "Available": false,
+          "Completed": true,
+          "TurnedIn": true
+        },
+        {
+          "MissionID": "KSP2Mission_Secondary_Mun_Flag",
+          "CompletedStages": [
+            {
+              "PlayerId": 1,
+              "StageIds": [],
+              "CurrentStageIndex": 0
+            }
+          ],
+          "IsNew": false,
+          "IsActive": true,
+          "Available": false,
+          "Completed": false,
+          "TurnedIn": false
+        },
+        {
+          "MissionID": "KSP2Mission_Secondary_Kerbin_OrbitCircular",
+          "CompletedStages": [
+            {
+              "PlayerId": 1,
+              "StageIds": [
+                0,
+                15
+              ],
+              "CurrentStageIndex": 1
+            }
+          ],
+          "IsNew": false,
+          "IsActive": false,
+          "Available": false,
+          "Completed": true,
+          "TurnedIn": true
+        },
+        {
+          "MissionID": "Main_Mun_OSS",
+          "CompletedStages": [
+            {
+              "PlayerId": 1,
+              "StageIds": [
+                16,
+                10
+              ],
+              "CurrentStageIndex": 1
+            }
+          ],
+          "IsNew": false,
+          "IsActive": false,
+          "Available": false,
+          "Completed": true,
+          "TurnedIn": true
+        },
+        {
+          "MissionID": "KSP2Mission_Secondary_Kerbin_OrbitEccentric",
+          "CompletedStages": [
+            {
+              "PlayerId": 1,
+              "StageIds": [
+                0,
+                15
+              ],
+              "CurrentStageIndex": 1
+            }
+          ],
+          "IsNew": false,
+          "IsActive": false,
+          "Available": false,
+          "Completed": true,
+          "TurnedIn": true
+        },
+        {
+          "MissionID": "KSP2Mission_Secondary_Kerbol_SOI",
+          "CompletedStages": [
+            {
+              "PlayerId": 1,
+              "StageIds": [
+                0,
+                15
+              ],
+              "CurrentStageIndex": 1
+            }
+          ],
+          "IsNew": false,
+          "IsActive": false,
+          "Available": false,
+          "Completed": true,
+          "TurnedIn": false
+        },
+        {
+          "MissionID": "KSP2Mission_Secondary_Kerbin_Satellite",
+          "CompletedStages": [
+            {
+              "PlayerId": 1,
+              "StageIds": [
+                0,
+                15
+              ],
+              "CurrentStageIndex": 1
+            }
+          ],
+          "IsNew": false,
+          "IsActive": false,
+          "Available": false,
+          "Completed": true,
+          "TurnedIn": true
+        },
+        {
+          "MissionID": "Main_Mun_01",
+          "CompletedStages": [
+            {
+              "PlayerId": 1,
+              "StageIds": [],
+              "CurrentStageIndex": 0
+            }
+          ],
+          "IsNew": false,
+          "IsActive": true,
+          "Available": false,
+          "Completed": false,
+          "TurnedIn": false
+        }
+      ]
+    }
+  ],
+  "CampaignPlayers": [
+    {
+      "PlayerName": "Unnamed Player",
+      "PlayerGuid": "5b800895-90f8-46a0-bdee-2782e7645216",
+      "PlayerId": 1,
+      "StartingGameState": "VehicleAssemblyBuilder",
+      "HistoricalGameState": "MissionControl",
+      "AgencyId": 1,
+      "ActiveVesselName": "",
+      "ActiveVesselGuid": {
+        "Guid": "00000000-0000-0000-0000-000000000000",
+        "DebugName": null
+      },
+      "UnlockedTechNodes": [
+        "tNode_1v_start",
+        "tNode_1v_rockets_01",
+        "tNode_1v_science_01",
+        "tNode_0v_electronics",
+        "tNode_1v_aero_01",
+        "tNode_1v_rockets_02",
+        "tNode_1v_rockets_03",
+        "tNode_1v_utility_01",
+        "tNode_1v_construction_01",
+        "tNode_0v_struts",
+        "tNode_0v_rcs",
+        "tNode_1v_rockets_04",
+        "tNode_1v_decouplers_01",
+        "tNode_1v_aero_02",
+        "tNode_1v_docking_01",
+        "tNode_0v_utility",
+        "tNode_1v_electronics_01",
+        "tNode_1v_electronics_02",
+        "tNode_0v_science_01",
+        "tNode_1v_monoprop",
+        "tNode_1v_payload",
+        "tNode_0v_rockets_01",
+        "tNode_2v_rockets_01",
+        "tNode_2v_rockets_02"
+      ],
+      "AllocatedSciencePoints": 1180,
+      "ActiveCameraGroup": "OAB",
+      "ActiveCameraInfo": {
+        "ActiveCameraId": "None",
+        "ActiveCameraMode": "None",
+        "Distance": 0.0,
+        "Yaw": 0.0,
+        "Pitch": 0.0
+      },
+      "ActiveLocalSpaceCB": "Kerbol",
+      "ObservedSimObjectGuid": {
+        "Guid": "00000000-0000-0000-0000-000000000000",
+        "DebugName": null
+      },
+      "FlightControlState": {
+        "mainThrottle": 0.0,
+        "roll": 0.146277145,
+        "yaw": -1.0,
+        "pitch": -0.437406063,
+        "rollTrim": 0.0,
+        "yawTrim": 0.0,
+        "pitchTrim": 0.0,
+        "inputRoll": 0.0,
+        "inputYaw": 0.0,
+        "inputPitch": 0.0,
+        "wheelSteer": 0.0,
+        "wheelSteerTrim": 0.0,
+        "wheelThrottle": 0.0,
+        "wheelThrottleTrim": 0.0,
+        "X": 0.0,
+        "Y": 0.0,
+        "Z": 0.0,
+        "killRot": false,
+        "gearUp": false,
+        "gearDown": false,
+        "headlight": false,
+        "stage": false,
+        "brakes": false,
+        "prelaunchInitiated": false
+      },
+      "LastOABWorkspaceSnapshot": {
+        "Metadata": {
+          "VersionString": "0.2",
+          "Name": "New Workspace",
+          "VehicleName": "Fly Safe",
+          "Description": "No Description",
+          "ThumbnailPath": "",
+          "Mass": 0.0,
+          "SaveTime": 0,
+          "Parts": 0,
+          "Stages": 0,
+          "IsAutoSave": false,
+          "CampaignName": "",
+          "IsBackupWorkspace": false,
+          "CriticalConcernLocTerms": []
+        },
+        "ActionType": "None",
+        "oabOrientation": "VAB",
+        "Assemblies": []
+      },
+      "LastOABConfig": null,
+      "CopyLocation": null,
+      "FavoritedParts": {},
+      "FTUE": false,
+      "MissionSaveData": [],
+      "CompletedTutorialList": [],
+      "CompletedFTUEList": [],
+      "TrackedMissions": [
+        {
+          "MissionOwner": "Agency",
+          "OwnerId": 1,
+          "MissionIDs": []
+        }
+      ],
+      "PartColorBase": {
+        "r": 0.654902,
+        "g": 0.6666667,
+        "b": 0.6862745,
+        "a": 1.0
+      },
+      "PartColorAccent": {
+        "r": 0.4117647,
+        "g": 0.443137258,
+        "b": 0.5176471,
+        "a": 1.0
+      }
+    }
+  ],
+  "Vessels": [],
+  "ColonyData": {
+    "activeFlights": null,
+    "deliveryRoutes": null
+  },
+  "KerbalData": {
+    "Kerbals": {
+      "dc4a7cdd-09dc-4cf9-b7bd-b6dfb28107ce": {
+        "NameKey": "Jebediah Kerman",
+        "EnrollmentUT": 0.15999999642372131,
+        "PlayerGuidString": "5b800895-90f8-46a0-bdee-2782e7645216",
+        "SimObjectIdString": "22e8548e-0fb5-e41a-42ab-72befe531e57",
+        "SecondaryIdString": "00000000-0000-0000-0000-000000000000",
+        "PositionIndex": -1,
+        "Attributes": {
+          "CustomNameKey": "JEBEDIAH_KERMAN",
+          "FirstName": "Jebediah",
+          "Surname": "Kerman"
+        }
+      },
+      "bf4afa18-3073-4241-8a9b-3384a222b286": {
+        "NameKey": "Bill Kerman",
+        "EnrollmentUT": 0.15999999642372131,
+        "PlayerGuidString": "5b800895-90f8-46a0-bdee-2782e7645216",
+        "SimObjectIdString": "22e8548e-0fb5-e41a-42ab-72befe531e57",
+        "SecondaryIdString": "00000000-0000-0000-0000-000000000000",
+        "PositionIndex": -1,
+        "Attributes": {
+          "CustomNameKey": "BILL_KERMAN",
+          "FirstName": "Bill",
+          "Surname": "Kerman"
+        }
+      },
+      "ebba1339-8c31-4693-98fe-298218ee474f": {
+        "NameKey": "Bob Kerman",
+        "EnrollmentUT": 0.17999999597668648,
+        "PlayerGuidString": "5b800895-90f8-46a0-bdee-2782e7645216",
+        "SimObjectIdString": "22e8548e-0fb5-e41a-42ab-72befe531e57",
+        "SecondaryIdString": "00000000-0000-0000-0000-000000000000",
+        "PositionIndex": -1,
+        "Attributes": {
+          "CustomNameKey": "BOB_KERMAN",
+          "FirstName": "Bob",
+          "Surname": "Kerman"
+        }
+      },
+      "22b7eb19-37c0-4e67-9797-7a8f5593eb4a": {
+        "NameKey": "Tim C Kerman",
+        "EnrollmentUT": 0.17999999597668648,
+        "PlayerGuidString": "5b800895-90f8-46a0-bdee-2782e7645216",
+        "SimObjectIdString": "22e8548e-0fb5-e41a-42ab-72befe531e57",
+        "SecondaryIdString": "00000000-0000-0000-0000-000000000000",
+        "PositionIndex": -1,
+        "Attributes": {
+          "CustomNameKey": "TIM_C_KERMAN",
+          "FirstName": "Tim C",
+          "Surname": "Kerman"
+        }
+      },
+      "4c5f6640-d3a4-4065-90a2-cc17057ca08a": {
+        "NameKey": "Valentina Kerman",
+        "EnrollmentUT": 0.21999999508261681,
+        "PlayerGuidString": "5b800895-90f8-46a0-bdee-2782e7645216",
+        "SimObjectIdString": "22e8548e-0fb5-e41a-42ab-72befe531e57",
+        "SecondaryIdString": "00000000-0000-0000-0000-000000000000",
+        "PositionIndex": -1,
+        "Attributes": {
+          "CustomNameKey": "VALENTINA_KERMAN",
+          "FirstName": "Valentina",
+          "Surname": "Kerman"
+        }
+      },
+      "101c506d-d3f5-49dd-99ee-a8cedfaeaf7a": {
+        "NameKey": "Seanvey Kerman",
+        "EnrollmentUT": 0.21999999508261681,
+        "PlayerGuidString": "5b800895-90f8-46a0-bdee-2782e7645216",
+        "SimObjectIdString": "22e8548e-0fb5-e41a-42ab-72befe531e57",
+        "SecondaryIdString": "00000000-0000-0000-0000-000000000000",
+        "PositionIndex": -1,
+        "Attributes": {
+          "CustomNameKey": "",
+          "FirstName": "Seanvey",
+          "Surname": "Kerman"
+        }
+      },
+      "2df665a0-3ee3-4e47-9592-5102e0983f51": {
+        "NameKey": "Dobles Kerman",
+        "EnrollmentUT": 0.23999999463558197,
+        "PlayerGuidString": "5b800895-90f8-46a0-bdee-2782e7645216",
+        "SimObjectIdString": "22e8548e-0fb5-e41a-42ab-72befe531e57",
+        "SecondaryIdString": "00000000-0000-0000-0000-000000000000",
+        "PositionIndex": -1,
+        "Attributes": {
+          "CustomNameKey": "",
+          "FirstName": "Dobles",
+          "Surname": "Kerman"
+        }
+      },
+      "c0766cb9-58c0-4e85-b497-b5a181d08cab": {
+        "NameKey": "Wehrster Kerman",
+        "EnrollmentUT": 0.25999999418854713,
+        "PlayerGuidString": "5b800895-90f8-46a0-bdee-2782e7645216",
+        "SimObjectIdString": "22e8548e-0fb5-e41a-42ab-72befe531e57",
+        "SecondaryIdString": "00000000-0000-0000-0000-000000000000",
+        "PositionIndex": -1,
+        "Attributes": {
+          "CustomNameKey": "",
+          "FirstName": "Wehrster",
+          "Surname": "Kerman"
+        }
+      },
+      "6578f166-3ac3-47d2-8733-7dc2eac0430a": {
+        "NameKey": "Derson Kerman",
+        "EnrollmentUT": 0.25999999418854713,
+        "PlayerGuidString": "5b800895-90f8-46a0-bdee-2782e7645216",
+        "SimObjectIdString": "22e8548e-0fb5-e41a-42ab-72befe531e57",
+        "SecondaryIdString": "00000000-0000-0000-0000-000000000000",
+        "PositionIndex": -1,
+        "Attributes": {
+          "CustomNameKey": "",
+          "FirstName": "Derson",
+          "Surname": "Kerman"
+        }
+      },
+      "13d2eb5d-74e4-403b-beb5-ccf29266904f": {
+        "NameKey": "Edby Kerman",
+        "EnrollmentUT": 0.2799999937415123,
+        "PlayerGuidString": "5b800895-90f8-46a0-bdee-2782e7645216",
+        "SimObjectIdString": "22e8548e-0fb5-e41a-42ab-72befe531e57",
+        "SecondaryIdString": "00000000-0000-0000-0000-000000000000",
+        "PositionIndex": -1,
+        "Attributes": {
+          "CustomNameKey": "",
+          "FirstName": "Edby",
+          "Surname": "Kerman"
+        }
+      },
+      "0cb8873a-a1f8-4482-baca-7ec71c35c839": {
+        "NameKey": "Philfrid Kerman",
+        "EnrollmentUT": 39.099999126046896,
+        "PlayerGuidString": "5b800895-90f8-46a0-bdee-2782e7645216",
+        "SimObjectIdString": "22e8548e-0fb5-e41a-42ab-72befe531e57",
+        "SecondaryIdString": "00000000-0000-0000-0000-000000000000",
+        "PositionIndex": -1,
+        "Attributes": {
+          "CustomNameKey": "",
+          "FirstName": "Philfrid",
+          "Surname": "Kerman"
+        }
+      },
+      "77fcc32e-33cb-4d39-a266-7e0047511bc0": {
+        "NameKey": "Samrod Kerman",
+        "EnrollmentUT": 69196.3113122285,
+        "PlayerGuidString": "5b800895-90f8-46a0-bdee-2782e7645216",
+        "SimObjectIdString": "22e8548e-0fb5-e41a-42ab-72befe531e57",
+        "SecondaryIdString": "00000000-0000-0000-0000-000000000000",
+        "PositionIndex": -1,
+        "Attributes": {
+          "CustomNameKey": "",
+          "FirstName": "Samrod",
+          "Surname": "Kerman"
+        }
+      }
+    },
+    "TotalKerbalSpawnCount": 12,
+    "CustomKerbals": {
+      "JEBEDIAH_KERMAN": "dc4a7cdd-09dc-4cf9-b7bd-b6dfb28107ce",
+      "BILL_KERMAN": "bf4afa18-3073-4241-8a9b-3384a222b286",
+      "BOB_KERMAN": "ebba1339-8c31-4693-98fe-298218ee474f",
+      "TIM_C_KERMAN": "22b7eb19-37c0-4e67-9797-7a8f5593eb4a",
+      "VALENTINA_KERMAN": "4c5f6640-d3a4-4065-90a2-cc17057ca08a"
+    },
+    "VeteranKerbalRefresh": {}
+  },
+  "PlantedFlags": [],
+  "TravelLogData": {
+    "Objects": [
+      {
+        "TravelObjectId": "8e7cbb7c-b24c-41bc-a3d9-db9e7c4cf22c",
+        "Statistics": {
+          "DistanceTravelled": 2137149484.956877,
+          "GroundDistanceTravelled": 0.075570174114441779,
+          "MaxAltitude": 10721296.287030399,
+          "MaxGeeForce": 44.519825937575888,
+          "MaxSpeed": 2913.7513824270641,
+          "MaxSpeedOverGround": 12.551834689944398,
+          "MaxGroundSpeed": 0.51780545298140157
+        }
+      },
+      {
+        "TravelObjectId": "274a51f4-5bc3-4b08-a9bb-23f1015d48ec",
+        "Statistics": {
+          "DistanceTravelled": 13471474.254503392,
+          "GroundDistanceTravelled": 0.071945636830702847,
+          "MaxAltitude": 13270389244.79558,
+          "MaxGeeForce": 5.0401433312373349,
+          "MaxSpeed": 7523.2842001165563,
+          "MaxSpeedOverGround": 12.547308801974674,
+          "MaxGroundSpeed": 0.52149033762140851
+        }
+      },
+      {
+        "TravelObjectId": "2a816faa-2200-42ec-988a-64c575e8515d",
+        "Statistics": {
+          "DistanceTravelled": 13479211.894738887,
+          "GroundDistanceTravelled": 0.071945636830702847,
+          "MaxAltitude": 13270389244.79558,
+          "MaxGeeForce": 15.081765530757359,
+          "MaxSpeed": 7523.2842001165563,
+          "MaxSpeedOverGround": 12.547308801974674,
+          "MaxGroundSpeed": 0.52149033762140851
+        }
+      },
+      {
+        "TravelObjectId": "c4acbe9f-cdb7-4990-a675-d1b2063fbe72",
+        "Statistics": {
+          "DistanceTravelled": 13479637.570233148,
+          "GroundDistanceTravelled": 0.071945636830702847,
+          "MaxAltitude": 13270389244.79558,
+          "MaxGeeForce": 15.289700753187837,
+          "MaxSpeed": 7523.2842001165563,
+          "MaxSpeedOverGround": 12.547308801974674,
+          "MaxGroundSpeed": 0.52149033762140851
+        }
+      },
+      {
+        "TravelObjectId": "386812ce-412d-41c9-a1a2-edacd52df474",
+        "Statistics": {
+          "DistanceTravelled": 13471767.79828297,
+          "GroundDistanceTravelled": 0.071945636830702847,
+          "MaxAltitude": 13270389244.79558,
+          "MaxGeeForce": 15.023040493915179,
+          "MaxSpeed": 7523.2842001165563,
+          "MaxSpeedOverGround": 12.547308801974674,
+          "MaxGroundSpeed": 0.52149033762140851
+        }
+      },
+      {
+        "TravelObjectId": "49fd28b0-b6f2-4175-bf95-704bad69eeaa",
+        "Statistics": {
+          "DistanceTravelled": 13479672.418602861,
+          "GroundDistanceTravelled": 0.071945636830702847,
+          "MaxAltitude": 13270389244.79558,
+          "MaxGeeForce": 15.258893381552388,
+          "MaxSpeed": 7523.2842001165563,
+          "MaxSpeedOverGround": 12.547308801974674,
+          "MaxGroundSpeed": 0.52149033762140851
+        }
+      },
+      {
+        "TravelObjectId": "749a6d26-226e-4032-baf3-2f91b42d4c7d",
+        "Statistics": {
+          "DistanceTravelled": 136.081972673015,
+          "GroundDistanceTravelled": 0.0,
+          "MaxAltitude": 16664.469544106279,
+          "MaxGeeForce": 2.2032745887311664,
+          "MaxSpeed": 973.02063667232562,
+          "MaxSpeedOverGround": 973.02063667232562,
+          "MaxGroundSpeed": 0.0
+        }
+      },
+      {
+        "TravelObjectId": "45a86fee-01ac-4036-a10f-d85409c8ad32",
+        "Statistics": {
+          "DistanceTravelled": 13799794.362833083,
+          "GroundDistanceTravelled": 0.071945636830702847,
+          "MaxAltitude": 13270389244.79558,
+          "MaxGeeForce": 5.0401433312373349,
+          "MaxSpeed": 7523.2842001165563,
+          "MaxSpeedOverGround": 12.547308801974674,
+          "MaxGroundSpeed": 0.52149033762140851
+        }
+      },
+      {
+        "TravelObjectId": "3d21e9ca-3222-4594-9683-5b55666aba9a",
+        "Statistics": {
+          "DistanceTravelled": 1756794546.0338383,
+          "GroundDistanceTravelled": 0.071945636830702847,
+          "MaxAltitude": 13270389244.79558,
+          "MaxGeeForce": 46.70009107304557,
+          "MaxSpeed": 7523.2842001165563,
+          "MaxSpeedOverGround": 12.547308801974674,
+          "MaxGroundSpeed": 0.52149033762140851
+        }
+      },
+      {
+        "TravelObjectId": "66841e23-2059-46a6-9c0a-d78d30d48183",
+        "Statistics": {
+          "DistanceTravelled": 19977127259.1288,
+          "GroundDistanceTravelled": 0.071945636830702847,
+          "MaxAltitude": 13271180086.98019,
+          "MaxGeeForce": 5.0401433312373349,
+          "MaxSpeed": 19908.743993815842,
+          "MaxSpeedOverGround": 12.547308801974674,
+          "MaxGroundSpeed": 0.52149033762140851
+        }
+      }
+    ],
+    "ObjectEvents": [
+      {
+        "TravelObjectIds": [
+          "8e7cbb7c-b24c-41bc-a3d9-db9e7c4cf22c"
+        ],
+        "EventKey": "vesselLaunched",
+        "UT": 105037.05582515124,
+        "FlightReportArgs": [
+          "Kerbin"
+        ]
+      },
+      {
+        "TravelObjectIds": [
+          "8e7cbb7c-b24c-41bc-a3d9-db9e7c4cf22c"
+        ],
+        "EventKey": "vesselSOIEntered",
+        "UT": 128489.42555485621,
+        "FlightReportArgs": [
+          "CelestialBody/Mun",
+          "Kerbin"
+        ]
+      },
+      {
+        "TravelObjectIds": [
+          "274a51f4-5bc3-4b08-a9bb-23f1015d48ec",
+          "2a816faa-2200-42ec-988a-64c575e8515d",
+          "c4acbe9f-cdb7-4990-a675-d1b2063fbe72",
+          "386812ce-412d-41c9-a1a2-edacd52df474",
+          "49fd28b0-b6f2-4175-bf95-704bad69eeaa",
+          "45a86fee-01ac-4036-a10f-d85409c8ad32",
+          "3d21e9ca-3222-4594-9683-5b55666aba9a",
+          "66841e23-2059-46a6-9c0a-d78d30d48183"
+        ],
+        "EventKey": "vesselLaunched",
+        "UT": 184415.72136535254,
+        "FlightReportArgs": [
+          "Kerbin"
+        ]
+      },
+      {
+        "TravelObjectIds": [
+          "386812ce-412d-41c9-a1a2-edacd52df474"
+        ],
+        "EventKey": "partCrashed",
+        "UT": 184459.12136438247,
+        "FlightReportArgs": [
+          "TT-38X"
+        ]
+      },
+      {
+        "TravelObjectIds": [
+          "386812ce-412d-41c9-a1a2-edacd52df474"
+        ],
+        "EventKey": "vesselDestroyed",
+        "UT": 184459.12136438247,
+        "FlightReportArgs": []
+      },
+      {
+        "TravelObjectIds": [
+          "749a6d26-226e-4032-baf3-2f91b42d4c7d"
+        ],
+        "EventKey": "partCrashed",
+        "UT": 184459.24136437979,
+        "FlightReportArgs": [
+          "Mk5H Nose Cone"
+        ]
+      },
+      {
+        "TravelObjectIds": [
+          "749a6d26-226e-4032-baf3-2f91b42d4c7d"
+        ],
+        "EventKey": "partCrashed",
+        "UT": 184459.26136437934,
+        "FlightReportArgs": [
+          "BACC \"Thumper\""
+        ]
+      },
+      {
+        "TravelObjectIds": [
+          "749a6d26-226e-4032-baf3-2f91b42d4c7d"
+        ],
+        "EventKey": "vesselDestroyed",
+        "UT": 184459.26136437934,
+        "FlightReportArgs": []
+      },
+      {
+        "TravelObjectIds": [
+          "2a816faa-2200-42ec-988a-64c575e8515d"
+        ],
+        "EventKey": "vesselDestroyed",
+        "UT": 184475.54136401546,
+        "FlightReportArgs": []
+      },
+      {
+        "TravelObjectIds": [
+          "c4acbe9f-cdb7-4990-a675-d1b2063fbe72"
+        ],
+        "EventKey": "vesselDestroyed",
+        "UT": 184475.54136401546,
+        "FlightReportArgs": []
+      },
+      {
+        "TravelObjectIds": [
+          "49fd28b0-b6f2-4175-bf95-704bad69eeaa"
+        ],
+        "EventKey": "vesselDestroyed",
+        "UT": 184475.54136401546,
+        "FlightReportArgs": []
+      },
+      {
+        "TravelObjectIds": [
+          "45a86fee-01ac-4036-a10f-d85409c8ad32"
+        ],
+        "EventKey": "vesselDestroyed",
+        "UT": 184774.63717764261,
+        "FlightReportArgs": []
+      },
+      {
+        "TravelObjectIds": [
+          "274a51f4-5bc3-4b08-a9bb-23f1015d48ec",
+          "2a816faa-2200-42ec-988a-64c575e8515d",
+          "c4acbe9f-cdb7-4990-a675-d1b2063fbe72",
+          "386812ce-412d-41c9-a1a2-edacd52df474",
+          "49fd28b0-b6f2-4175-bf95-704bad69eeaa",
+          "45a86fee-01ac-4036-a10f-d85409c8ad32",
+          "3d21e9ca-3222-4594-9683-5b55666aba9a",
+          "66841e23-2059-46a6-9c0a-d78d30d48183"
+        ],
+        "EventKey": "vesselSOIEntered",
+        "UT": 203156.84901774468,
+        "FlightReportArgs": [
+          "CelestialBody/Kerbol",
+          "Kerbin"
+        ]
+      },
+      {
+        "TravelObjectIds": [
+          "66841e23-2059-46a6-9c0a-d78d30d48183"
+        ],
+        "EventKey": "vesselSOIEntered",
+        "UT": 204774.99271448649,
+        "FlightReportArgs": [
+          "CelestialBody/Kerbol",
+          "Kerbin"
+        ]
+      },
+      {
+        "TravelObjectIds": [
+          "274a51f4-5bc3-4b08-a9bb-23f1015d48ec",
+          "2a816faa-2200-42ec-988a-64c575e8515d",
+          "c4acbe9f-cdb7-4990-a675-d1b2063fbe72",
+          "386812ce-412d-41c9-a1a2-edacd52df474",
+          "49fd28b0-b6f2-4175-bf95-704bad69eeaa",
+          "45a86fee-01ac-4036-a10f-d85409c8ad32",
+          "3d21e9ca-3222-4594-9683-5b55666aba9a",
+          "66841e23-2059-46a6-9c0a-d78d30d48183"
+        ],
+        "EventKey": "vesselDestroyed",
+        "UT": 1846082.9227471447,
+        "FlightReportArgs": []
+      },
+      {
+        "TravelObjectIds": [
+          "66841e23-2059-46a6-9c0a-d78d30d48183"
+        ],
+        "EventKey": "vesselDestroyed",
+        "UT": 1846082.9227471447,
+        "FlightReportArgs": []
+      },
+      {
+        "TravelObjectIds": [
+          "3d21e9ca-3222-4594-9683-5b55666aba9a"
+        ],
+        "EventKey": "vesselDestroyed",
+        "UT": 1846082.9227471447,
+        "FlightReportArgs": []
+      },
+      {
+        "TravelObjectIds": [
+          "8e7cbb7c-b24c-41bc-a3d9-db9e7c4cf22c"
+        ],
+        "EventKey": "vesselDestroyed",
+        "UT": 1846082.9227471447,
+        "FlightReportArgs": []
+      }
+    ],
+    "Firsts": {
+      "SOIReached": [
+        {
+          "TravelObjectId": "72118033-cf30-4e8c-9560-c2c1a41c5eac",
+          "ObjectKey": "Mun",
+          "UT": 94873.027584317373
+        },
+        {
+          "TravelObjectId": "990a296e-488b-47c4-9e8a-5494dff30d7b",
+          "ObjectKey": "Kerbin",
+          "UT": 144708.80764349631
+        },
+        {
+          "TravelObjectId": "274a51f4-5bc3-4b08-a9bb-23f1015d48ec",
+          "ObjectKey": "Kerbol",
+          "UT": 203156.84901774468
+        }
+      ],
+      "DiscoverableReached": [
+        {
+          "TravelObjectId": "bdeb84ad-cb45-4af8-ad29-49b17cd22fd9",
+          "ObjectKey": "Kerbin_KerbinKSC",
+          "UT": 69727.971300344972
+        }
+      ],
+      "CBLanded": [
+        {
+          "TravelObjectId": "29a1fdb4-0108-4d0b-a886-e820d1607877",
+          "ObjectKey": "Kerbin",
+          "UT": 71889.670117383634
+        },
+        {
+          "TravelObjectId": "72118033-cf30-4e8c-9560-c2c1a41c5eac",
+          "ObjectKey": "Mun",
+          "UT": 101487.72799432864
+        }
+      ],
+      "WalkedOn": [],
+      "CBLaunched": [
+        {
+          "TravelObjectId": "bdeb84ad-cb45-4af8-ad29-49b17cd22fd9",
+          "ObjectKey": "Kerbin",
+          "UT": 69730.431300289987
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "VersionString": "0.1.0",
+  "Name": "quicksave_4",
+  "Description": "",
+  "Filepath": "C:/users/steamuser/AppData/LocalLow/Intercept Games/Kerbal Space Program 2\\Saves\\SinglePlayer\\Default\\quicksave_4.json",
+  "UniverseTime": 101299.01463917177,
+  "ThumbnailImagePath": "C:/users/steamuser/AppData/LocalLow/Intercept Games/Kerbal Space Program 2\\Saves\\SinglePlayer\\Default\\quicksave_4.jpg",
+  "HostPlayerActiveVesselName": "Fly Safe-1",
+  "SaveCreatedTime": "2023-12-23T00:40:02.5827818Z",
+  "SavedGameType": "Quick",
+  "AvailableScience": 157.0,
+  "CampaignType": "SinglePlayer",
+  "NewPlayerIsFTUEEnabled": false,
+  "GameMode": "ExplorationMode"
+}

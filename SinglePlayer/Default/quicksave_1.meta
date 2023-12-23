@@ -1,0 +1,15 @@
+{
+  "VersionString": "0.1.0",
+  "Name": "quicksave_1",
+  "Description": "",
+  "Filepath": "C:/users/steamuser/AppData/LocalLow/Intercept Games/Kerbal Space Program 2\\Saves\\SinglePlayer\\Default\\quicksave_1.json",
+  "UniverseTime": 70421.143690246856,
+  "ThumbnailImagePath": "C:/users/steamuser/AppData/LocalLow/Intercept Games/Kerbal Space Program 2\\Saves\\SinglePlayer\\Default\\quicksave_1.jpg",
+  "HostPlayerActiveVesselName": "(Combined)-19",
+  "SaveCreatedTime": "2023-12-22T02:02:51.8360255Z",
+  "SavedGameType": "Quick",
+  "AvailableScience": 14.0,
+  "CampaignType": "SinglePlayer",
+  "NewPlayerIsFTUEEnabled": false,
+  "GameMode": "ExplorationMode"
+}
