@@ -1,0 +1,292 @@
+{
+  "Metadata": {
+    "VersionString": "0.1.0",
+    "Name": "autosave_1",
+    "Description": "",
+    "Filepath": "C:/users/steamuser/AppData/LocalLow/Intercept Games/Kerbal Space Program 2\\Saves\\SinglePlayer\\Default 1\\autosave_1.json",
+    "UniverseTime": 0.23999999463558197,
+    "ThumbnailImagePath": "C:/users/steamuser/AppData/LocalLow/Intercept Games/Kerbal Space Program 2\\Saves\\SinglePlayer\\Default 1\\autosave_1.jpg",
+    "HostPlayerActiveVesselName": "",
+    "SaveCreatedTime": "2023-12-24T21:40:56.0823886Z",
+    "SavedGameType": "Auto",
+    "AvailableScience": 0.0,
+    "CampaignType": "SinglePlayer",
+    "NewPlayerIsFTUEEnabled": false,
+    "GameMode": "ExplorationMode"
+  },
+  "Properties": {
+    "BoolProperties": {
+      "NoCrashDamage": false,
+      "DisableGravity": false,
+      "DisableAerodynamics": false,
+      "DisableThermodynamics": false,
+      "IgnoreMaxTemp": true,
+      "UnlockAllParts": false
+    }
+  },
+  "GalaxyDefinitionKey": "GalaxyDefinition_Default",
+  "SessionManager": {
+    "DifficultyOptions": {
+      "Difficulty": "Normal",
+      "AllowRevert": true,
+      "AllowQuickLoad": true,
+      "IncludeStockVessels": true,
+      "DockingTolerance": 1.5,
+      "CommNetRequired": true,
+      "UnbreakableJoints": false,
+      "InfiniteFuel": false,
+      "InfinitePower": false,
+      "HeatEnabled": true,
+      "HeatScaling": 1,
+      "HeatPartDestruction": true,
+      "StartingScience": 0,
+      "ScienceRewards": 1.0,
+      "MissionRewards": 1.0
+    },
+    "DefaultDifficultyOptions": {
+      "Difficulty": "Normal",
+      "AllowRevert": true,
+      "AllowQuickLoad": true,
+      "IncludeStockVessels": true,
+      "DockingTolerance": 1.5,
+      "CommNetRequired": true,
+      "UnbreakableJoints": false,
+      "InfiniteFuel": false,
+      "InfinitePower": false,
+      "HeatEnabled": true,
+      "HeatScaling": 1,
+      "HeatPartDestruction": true,
+      "StartingScience": 0,
+      "ScienceRewards": 1.0,
+      "MissionRewards": 1.0
+    }
+  },
+  "SessionGuid": "f0f9e4d9-c89d-4ee8-9881-26dadd74c430",
+  "Agencies": [
+    {
+      "AgencyId": 1,
+      "AgencyName": "Kerbal Space Agency",
+      "SubmittedResearchReports": [],
+      "SciencePointCapacity": 0,
+      "AdditionalSciencePoints": 0,
+      "ColorBase": {
+        "r": 0.654902,
+        "g": 0.6666667,
+        "b": 0.6862745,
+        "a": 1.0
+      },
+      "ColorAccent": {
+        "r": 0.4117647,
+        "g": 0.443137258,
+        "b": 0.5176471,
+        "a": 1.0
+      },
+      "FlagSpriteLocation": "flag_AGY_Default",
+      "MissionSaveData": [
+        {
+          "MissionID": "Main_Kerbin_01",
+          "CompletedStages": [
+            {
+              "PlayerId": 1,
+              "StageIds": [],
+              "CurrentStageIndex": 0
+            }
+          ],
+          "IsNew": true,
+          "IsActive": true,
+          "Available": false,
+          "Completed": false,
+          "TurnedIn": false
+        }
+      ]
+    }
+  ],
+  "CampaignPlayers": [
+    {
+      "PlayerName": "Unnamed Player",
+      "PlayerGuid": "b461d22f-a4b8-4081-8882-b090c88e7d72",
+      "PlayerId": 1,
+      "StartingGameState": "KerbalSpaceCenter",
+      "HistoricalGameState": "MainMenu",
+      "AgencyId": 1,
+      "ActiveVesselName": "",
+      "ActiveVesselGuid": {
+        "Guid": "00000000-0000-0000-0000-000000000000",
+        "DebugName": null
+      },
+      "UnlockedTechNodes": [
+        "tNode_1v_start"
+      ],
+      "AllocatedSciencePoints": 0,
+      "ActiveCameraGroup": "Flight",
+      "ActiveCameraInfo": {
+        "ActiveCameraId": "Flight",
+        "ActiveCameraMode": "Auto",
+        "Distance": 8.0,
+        "Yaw": 130.74654051494076,
+        "Pitch": 14.378420829772949
+      },
+      "ActiveLocalSpaceCB": "Kerbin",
+      "ObservedSimObjectGuid": {
+        "Guid": "00000000-0000-0000-0000-000000000000",
+        "DebugName": null
+      },
+      "FlightControlState": null,
+      "LastOABWorkspaceSnapshot": null,
+      "LastOABConfig": null,
+      "CopyLocation": null,
+      "FavoritedParts": {},
+      "FTUE": false,
+      "MissionSaveData": [],
+      "CompletedTutorialList": [],
+      "CompletedFTUEList": [],
+      "TrackedMissions": [],
+      "PartColorBase": {
+        "r": 0.654902,
+        "g": 0.6666667,
+        "b": 0.6862745,
+        "a": 1.0
+      },
+      "PartColorAccent": {
+        "r": 0.4117647,
+        "g": 0.443137258,
+        "b": 0.5176471,
+        "a": 1.0
+      }
+    }
+  ],
+  "Vessels": [],
+  "ColonyData": {
+    "activeFlights": null,
+    "deliveryRoutes": null
+  },
+  "KerbalData": {
+    "Kerbals": {
+      "f3760677-13dc-4cb7-8e96-3b3508c6320d": {
+        "NameKey": "Bob Kerman",
+        "EnrollmentUT": 0.15999999642372131,
+        "PlayerGuidString": "b461d22f-a4b8-4081-8882-b090c88e7d72",
+        "SimObjectIdString": "22e8548e-0fb5-e41a-42ab-72befe531e57",
+        "SecondaryIdString": "00000000-0000-0000-0000-000000000000",
+        "PositionIndex": -1,
+        "Attributes": {
+          "CustomNameKey": "BOB_KERMAN",
+          "FirstName": "Bob",
+          "Surname": "Kerman"
+        }
+      },
+      "feb1007c-00c3-4f31-988b-8fa33414dd28": {
+        "NameKey": "Valentina Kerman",
+        "EnrollmentUT": 0.17999999597668648,
+        "PlayerGuidString": "b461d22f-a4b8-4081-8882-b090c88e7d72",
+        "SimObjectIdString": "22e8548e-0fb5-e41a-42ab-72befe531e57",
+        "SecondaryIdString": "00000000-0000-0000-0000-000000000000",
+        "PositionIndex": -1,
+        "Attributes": {
+          "CustomNameKey": "VALENTINA_KERMAN",
+          "FirstName": "Valentina",
+          "Surname": "Kerman"
+        }
+      },
+      "899ca26a-138a-45d6-8029-0692e50f3e31": {
+        "NameKey": "Bill Kerman",
+        "EnrollmentUT": 0.19999999552965164,
+        "PlayerGuidString": "b461d22f-a4b8-4081-8882-b090c88e7d72",
+        "SimObjectIdString": "22e8548e-0fb5-e41a-42ab-72befe531e57",
+        "SecondaryIdString": "00000000-0000-0000-0000-000000000000",
+        "PositionIndex": -1,
+        "Attributes": {
+          "CustomNameKey": "BILL_KERMAN",
+          "FirstName": "Bill",
+          "Surname": "Kerman"
+        }
+      },
+      "e2256b86-1df3-41f1-8b14-f3adcfb8e226": {
+        "NameKey": "Jebediah Kerman",
+        "EnrollmentUT": 0.19999999552965164,
+        "PlayerGuidString": "b461d22f-a4b8-4081-8882-b090c88e7d72",
+        "SimObjectIdString": "22e8548e-0fb5-e41a-42ab-72befe531e57",
+        "SecondaryIdString": "00000000-0000-0000-0000-000000000000",
+        "PositionIndex": -1,
+        "Attributes": {
+          "CustomNameKey": "JEBEDIAH_KERMAN",
+          "FirstName": "Jebediah",
+          "Surname": "Kerman"
+        }
+      },
+      "0ffa3934-b8cd-4fb6-8145-30f5c15f4c6d": {
+        "NameKey": "Tim C Kerman",
+        "EnrollmentUT": 0.19999999552965164,
+        "PlayerGuidString": "b461d22f-a4b8-4081-8882-b090c88e7d72",
+        "SimObjectIdString": "22e8548e-0fb5-e41a-42ab-72befe531e57",
+        "SecondaryIdString": "00000000-0000-0000-0000-000000000000",
+        "PositionIndex": -1,
+        "Attributes": {
+          "CustomNameKey": "TIM_C_KERMAN",
+          "FirstName": "Tim C",
+          "Surname": "Kerman"
+        }
+      },
+      "4110ae6b-efa3-4dc5-b02e-258e0ddee294": {
+        "NameKey": "Eruki Kerman",
+        "EnrollmentUT": 0.23999999463558197,
+        "PlayerGuidString": "b461d22f-a4b8-4081-8882-b090c88e7d72",
+        "SimObjectIdString": "22e8548e-0fb5-e41a-42ab-72befe531e57",
+        "SecondaryIdString": "00000000-0000-0000-0000-000000000000",
+        "PositionIndex": -1,
+        "Attributes": {
+          "CustomNameKey": "",
+          "FirstName": "Eruki",
+          "Surname": "Kerman"
+        }
+      },
+      "fd8ae6ce-d94a-4626-a046-449483840c63": {
+        "NameKey": "Neillie Kerman",
+        "EnrollmentUT": 0.23999999463558197,
+        "PlayerGuidString": "b461d22f-a4b8-4081-8882-b090c88e7d72",
+        "SimObjectIdString": "22e8548e-0fb5-e41a-42ab-72befe531e57",
+        "SecondaryIdString": "00000000-0000-0000-0000-000000000000",
+        "PositionIndex": -1,
+        "Attributes": {
+          "CustomNameKey": "",
+          "FirstName": "Neillie",
+          "Surname": "Kerman"
+        }
+      },
+      "f3219019-8d5a-4e2e-8382-810474443672": {
+        "NameKey": "Sidster Kerman",
+        "EnrollmentUT": 0.25999999418854713,
+        "PlayerGuidString": "b461d22f-a4b8-4081-8882-b090c88e7d72",
+        "SimObjectIdString": "22e8548e-0fb5-e41a-42ab-72befe531e57",
+        "SecondaryIdString": "00000000-0000-0000-0000-000000000000",
+        "PositionIndex": -1,
+        "Attributes": {
+          "CustomNameKey": "",
+          "FirstName": "Sidster",
+          "Surname": "Kerman"
+        }
+      }
+    },
+    "TotalKerbalSpawnCount": 8,
+    "CustomKerbals": {
+      "BOB_KERMAN": "f3760677-13dc-4cb7-8e96-3b3508c6320d",
+      "VALENTINA_KERMAN": "feb1007c-00c3-4f31-988b-8fa33414dd28",
+      "BILL_KERMAN": "899ca26a-138a-45d6-8029-0692e50f3e31",
+      "JEBEDIAH_KERMAN": "e2256b86-1df3-41f1-8b14-f3adcfb8e226",
+      "TIM_C_KERMAN": "0ffa3934-b8cd-4fb6-8145-30f5c15f4c6d"
+    },
+    "VeteranKerbalRefresh": {}
+  },
+  "PlantedFlags": [],
+  "TravelLogData": {
+    "Objects": [],
+    "ObjectEvents": [],
+    "Firsts": {
+      "SOIReached": [],
+      "DiscoverableReached": [],
+      "CBLanded": [],
+      "WalkedOn": [],
+      "CBLaunched": []
+    }
+  }
+}
