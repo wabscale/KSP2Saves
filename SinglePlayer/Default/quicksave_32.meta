@@ -1,0 +1,15 @@
+{
+  "VersionString": "0.1.0",
+  "Name": "quicksave_32",
+  "Description": "",
+  "Filepath": "C:/users/steamuser/AppData/LocalLow/Intercept Games/Kerbal Space Program 2\\Saves\\SinglePlayer\\Default\\quicksave_32.json",
+  "UniverseTime": 1929585.7968444619,
+  "ThumbnailImagePath": "C:/users/steamuser/AppData/LocalLow/Intercept Games/Kerbal Space Program 2\\Saves\\SinglePlayer\\Default\\quicksave_32.jpg",
+  "HostPlayerActiveVesselName": "minmus lander-6",
+  "SaveCreatedTime": "2023-12-23T16:57:55.1821841Z",
+  "SavedGameType": "Quick",
+  "AvailableScience": 281.0,
+  "CampaignType": "SinglePlayer",
+  "NewPlayerIsFTUEEnabled": false,
+  "GameMode": "ExplorationMode"
+}

@@ -1,0 +1,15 @@
+{
+  "VersionString": "0.1.0",
+  "Name": "quicksave_57",
+  "Description": "",
+  "Filepath": "C:/users/steamuser/AppData/LocalLow/Intercept Games/Kerbal Space Program 2\\Saves\\SinglePlayer\\Default\\quicksave_57.json",
+  "UniverseTime": 3401043.3813815839,
+  "ThumbnailImagePath": "C:/users/steamuser/AppData/LocalLow/Intercept Games/Kerbal Space Program 2\\Saves\\SinglePlayer\\Default\\quicksave_57.jpg",
+  "HostPlayerActiveVesselName": "mars probe-17",
+  "SaveCreatedTime": "2023-12-24T00:37:00.4321793Z",
+  "SavedGameType": "Quick",
+  "AvailableScience": 69.0,
+  "CampaignType": "SinglePlayer",
+  "NewPlayerIsFTUEEnabled": false,
+  "GameMode": "ExplorationMode"
+}

@@ -1,0 +1,15 @@
+{
+  "VersionString": "0.1.0",
+  "Name": "quicksave_43",
+  "Description": "",
+  "Filepath": "C:/users/steamuser/AppData/LocalLow/Intercept Games/Kerbal Space Program 2\\Saves\\SinglePlayer\\Default\\quicksave_43.json",
+  "UniverseTime": 3066227.6249480625,
+  "ThumbnailImagePath": "C:/users/steamuser/AppData/LocalLow/Intercept Games/Kerbal Space Program 2\\Saves\\SinglePlayer\\Default\\quicksave_43.jpg",
+  "HostPlayerActiveVesselName": "landerrover-12",
+  "SaveCreatedTime": "2023-12-23T23:03:47.8499491Z",
+  "SavedGameType": "Quick",
+  "AvailableScience": 145.0,
+  "CampaignType": "SinglePlayer",
+  "NewPlayerIsFTUEEnabled": false,
+  "GameMode": "ExplorationMode"
+}
