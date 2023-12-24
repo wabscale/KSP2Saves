@@ -1,0 +1,15 @@
+{
+  "VersionString": "0.2",
+  "Name": "mars",
+  "VehicleName": "mars probe",
+  "Description": "AutoSaved workspace 12/23/2023 22:39",
+  "ThumbnailPath": "\\Saves\\SinglePlayer\\Default\\Workspaces\\mars.png",
+  "Mass": 234.9801,
+  "SaveTime": 638389683181384320,
+  "Parts": 119,
+  "Stages": 6,
+  "IsAutoSave": false,
+  "CampaignName": "Default",
+  "IsBackupWorkspace": false,
+  "CriticalConcernLocTerms": []
+}
