@@ -1,0 +1,17 @@
+{
+  "VersionString": "0.2",
+  "Name": "minmus",
+  "VehicleName": "rover",
+  "Description": "AutoSaved workspace 12/26/2023 15:52",
+  "ThumbnailPath": "\\Saves\\SinglePlayer\\Default\\Workspaces\\AutoSave Default 12_26_2023 15_52.png",
+  "Mass": 7.1998,
+  "SaveTime": 638392027220294043,
+  "Parts": 66,
+  "Stages": 2,
+  "IsAutoSave": true,
+  "CampaignName": "Default",
+  "IsBackupWorkspace": false,
+  "CriticalConcernLocTerms": [
+    "VAB/EngineersReport/Flaws/NotEnoughThrust"
+  ]
+}

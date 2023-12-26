@@ -1,0 +1,15 @@
+{
+  "VersionString": "0.2",
+  "Name": "minmus",
+  "VehicleName": "rover",
+  "Description": "",
+  "ThumbnailPath": "\\Saves\\SinglePlayer\\Default\\Workspaces\\minmus.png",
+  "Mass": 90.9377747,
+  "SaveTime": 638392063051096364,
+  "Parts": 82,
+  "Stages": 6,
+  "IsAutoSave": false,
+  "CampaignName": "Default",
+  "IsBackupWorkspace": false,
+  "CriticalConcernLocTerms": []
+}
