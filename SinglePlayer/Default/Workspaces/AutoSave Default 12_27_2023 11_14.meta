@@ -1,0 +1,17 @@
+{
+  "VersionString": "0.2",
+  "Name": "New Workspace",
+  "VehicleName": "Fly Safe",
+  "Description": "AutoSaved workspace 12/27/2023 11:14",
+  "ThumbnailPath": "\\Saves\\SinglePlayer\\Default\\Workspaces\\AutoSave Default 12_27_2023 11_14.png",
+  "Mass": 44.03797,
+  "SaveTime": 638392724869180423,
+  "Parts": 50,
+  "Stages": 4,
+  "IsAutoSave": true,
+  "CampaignName": "Default",
+  "IsBackupWorkspace": false,
+  "CriticalConcernLocTerms": [
+    "VAB/EngineersReport/Flaws/NotEnoughThrust"
+  ]
+}

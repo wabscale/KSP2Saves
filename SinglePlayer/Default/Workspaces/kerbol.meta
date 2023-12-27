@@ -1,0 +1,15 @@
+{
+  "VersionString": "0.2",
+  "Name": "kerbol",
+  "VehicleName": "kerbol lander",
+  "Description": "",
+  "ThumbnailPath": "\\Saves\\SinglePlayer\\Default\\Workspaces\\kerbol.png",
+  "Mass": 204.270081,
+  "SaveTime": 638392740721780037,
+  "Parts": 73,
+  "Stages": 6,
+  "IsAutoSave": false,
+  "CampaignName": "Default",
+  "IsBackupWorkspace": false,
+  "CriticalConcernLocTerms": []
+}
