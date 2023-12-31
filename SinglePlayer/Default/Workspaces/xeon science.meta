@@ -1,0 +1,15 @@
+{
+  "VersionString": "0.2",
+  "Name": "xeon science",
+  "VehicleName": "xeon science",
+  "Description": "No Description",
+  "ThumbnailPath": "\\Saves\\SinglePlayer\\Default\\Workspaces\\xeon science.png",
+  "Mass": 115.289879,
+  "SaveTime": 638393551357278826,
+  "Parts": 38,
+  "Stages": 6,
+  "IsAutoSave": false,
+  "CampaignName": "Default",
+  "IsBackupWorkspace": false,
+  "CriticalConcernLocTerms": []
+}

@@ -1,0 +1,15 @@
+{
+  "VersionString": "0.2",
+  "Name": "duna",
+  "VehicleName": "lander rocket",
+  "Description": "",
+  "ThumbnailPath": "\\Saves\\SinglePlayer\\Default\\Workspaces\\duna.png",
+  "Mass": 751.1542,
+  "SaveTime": 638396163053814457,
+  "Parts": 162,
+  "Stages": 9,
+  "IsAutoSave": false,
+  "CampaignName": "Default",
+  "IsBackupWorkspace": false,
+  "CriticalConcernLocTerms": []
+}

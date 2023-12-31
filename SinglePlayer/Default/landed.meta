@@ -1,0 +1,15 @@
+{
+  "VersionString": "0.1.0",
+  "Name": "landed",
+  "Description": "",
+  "Filepath": "C:/users/steamuser/AppData/LocalLow/Intercept Games/Kerbal Space Program 2\\Saves\\SinglePlayer\\Default\\landed.json",
+  "UniverseTime": 11126650.555161767,
+  "ThumbnailImagePath": "C:/users/steamuser/AppData/LocalLow/Intercept Games/Kerbal Space Program 2\\Saves\\SinglePlayer\\Default\\landed.jpg",
+  "HostPlayerActiveVesselName": "New Workspace-9",
+  "SaveCreatedTime": "2023-12-27T18:49:48.4946224Z",
+  "SavedGameType": "Manual",
+  "AvailableScience": 1081.0,
+  "CampaignType": "SinglePlayer",
+  "NewPlayerIsFTUEEnabled": false,
+  "GameMode": "ExplorationMode"
+}
