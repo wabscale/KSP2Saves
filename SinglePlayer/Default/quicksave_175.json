@@ -1,14 +1,14 @@
 {
   "Metadata": {
     "VersionString": "0.1.0",
-    "Name": "autosave_2",
+    "Name": "quicksave_175",
     "Description": "",
-    "Filepath": "C:/users/steamuser/AppData/LocalLow/Intercept Games/Kerbal Space Program 2\\Saves\\SinglePlayer\\Default\\autosave_2.json",
-    "UniverseTime": 188141227.17262056,
-    "ThumbnailImagePath": "C:/users/steamuser/AppData/LocalLow/Intercept Games/Kerbal Space Program 2\\Saves\\SinglePlayer\\Default\\autosave_2.jpg",
+    "Filepath": "C:/users/steamuser/AppData/LocalLow/Intercept Games/Kerbal Space Program 2\\Saves\\SinglePlayer\\Default\\quicksave_175.json",
+    "UniverseTime": 188141293.27265602,
+    "ThumbnailImagePath": "C:/users/steamuser/AppData/LocalLow/Intercept Games/Kerbal Space Program 2\\Saves\\SinglePlayer\\Default\\quicksave_175.jpg",
     "HostPlayerActiveVesselName": "Default Name-7",
-    "SaveCreatedTime": "2024-01-01T18:50:27.6723236Z",
-    "SavedGameType": "Auto",
+    "SaveCreatedTime": "2024-01-01T18:58:25.5677848Z",
+    "SavedGameType": "Quick",
     "AvailableScience": 388.0,
     "CampaignType": "SinglePlayer",
     "NewPlayerIsFTUEEnabled": false,
@@ -1041,8 +1041,8 @@
         "ActiveCameraId": "Flight",
         "ActiveCameraMode": "Horizon",
         "Distance": 5.7532340230676056,
-        "Yaw": 196.51046886015683,
-        "Pitch": 17.668080439791083
+        "Yaw": 165.50289876479656,
+        "Pitch": -0.11052699387073517
       },
       "ActiveLocalSpaceCB": "Duna",
       "ObservedSimObjectGuid": {
@@ -1050,10 +1050,10 @@
         "DebugName": null
       },
       "FlightControlState": {
-        "mainThrottle": 0.3077643,
-        "roll": 0.0071422956,
-        "yaw": -0.177977279,
-        "pitch": -0.04276504,
+        "mainThrottle": 0.0,
+        "roll": -0.0158434827,
+        "yaw": -0.0575695336,
+        "pitch": -0.460861057,
         "rollTrim": 0.0,
         "yawTrim": 0.0,
         "pitchTrim": 0.0,
@@ -1460,22 +1460,22 @@
         "LocationType": "Orbit",
         "serializedOrbit": {
           "referenceBodyGuid": "Mun",
-          "inclination": 8.2037274210943387,
-          "eccentricity": 0.017327840658057168,
-          "semiMajorAxis": 224941.51457483979,
-          "longitudeOfAscendingNode": 183.46233558692822,
-          "argumentOfPeriapsis": 193.91336354053615,
-          "meanAnomalyAtEpoch": 0.03146427973691656,
-          "epoch": 188141167.99258882
+          "inclination": 8.203730558282663,
+          "eccentricity": 0.017324909194070429,
+          "semiMajorAxis": 224939.98846958092,
+          "longitudeOfAscendingNode": 183.46229751837538,
+          "argumentOfPeriapsis": 193.90654562026839,
+          "meanAnomalyAtEpoch": 0.27617077454139194,
+          "epoch": 188141270.35264373
         },
         "surfaceLocation": null,
         "rigidbodyState": {
           "referenceTransformGuid": "Mun",
           "referenceFrameType": "Celestial",
           "localVelocity": {
-            "x": -252.03562036450094,
-            "y": -71.361469805196961,
-            "z": 480.64246431477432
+            "x": -326.2191572848447,
+            "y": -65.323109569181611,
+            "z": 434.1935689046087
           },
           "localAngularVelocity": {
             "x": 0.0,
@@ -1483,9 +1483,9 @@
             "z": 0.0
           },
           "localPosition": {
-            "x": 195952.93559190747,
-            "y": -12914.494639109629,
-            "z": 101598.4444953565
+            "x": 176838.71533023147,
+            "y": -17432.1516727272,
+            "z": 131835.03939727289
           },
           "localRotation": {
             "x": -0.10080371797084808,
@@ -6395,11 +6395,11 @@
       ],
       "CameraGimbalSate": {
         "distance": 5.7532340230676056,
-        "pitch": 17.668080439791083,
-        "heading": 196.51046886015683,
+        "pitch": -0.11052699387073517,
+        "heading": 165.50289876479656,
         "roll": 0.0,
-        "localPitch": 196.51046886015686,
-        "localHeading": 17.66808043979108,
+        "localPitch": 165.50289876479656,
+        "localHeading": 359.88947300612926,
         "pan": {
           "x": 0.0,
           "y": 0.0
@@ -6773,22 +6773,22 @@
         "LocationType": "Orbit",
         "serializedOrbit": {
           "referenceBodyGuid": "Mun",
-          "inclination": 12.872703209409881,
-          "eccentricity": 0.01031674602913606,
-          "semiMajorAxis": 236987.385995717,
-          "longitudeOfAscendingNode": 330.83962343410758,
-          "argumentOfPeriapsis": 279.81898038358634,
-          "meanAnomalyAtEpoch": 0.48950766855509781,
-          "epoch": 188141167.99258882
+          "inclination": 12.872705741623152,
+          "eccentricity": 0.010317535814681398,
+          "semiMajorAxis": 236988.8483375521,
+          "longitudeOfAscendingNode": 330.8396375794141,
+          "argumentOfPeriapsis": 279.83990354194083,
+          "meanAnomalyAtEpoch": 0.71532328562276326,
+          "epoch": 188141270.35264373
         },
         "surfaceLocation": null,
         "rigidbodyState": {
           "referenceTransformGuid": "Mun",
           "referenceFrameType": "Celestial",
           "localVelocity": {
-            "x": 502.15797136742128,
-            "y": 84.297682541590092,
-            "z": 142.21556941091984
+            "x": 473.55242633744012,
+            "y": 95.349112865069515,
+            "z": 213.5542340566916
           },
           "localAngularVelocity": {
             "x": 0.0,
@@ -6796,9 +6796,9 @@
             "z": 0.0
           },
           "localPosition": {
-            "x": 70267.695011514719,
-            "y": -36337.858535759813,
-            "z": -221292.54939266903
+            "x": 102504.5555387544,
+            "y": -30402.346039014141,
+            "z": -209537.57697350768
           },
           "localRotation": {
             "x": 0.44766923785209656,
@@ -7945,8 +7945,8 @@
                         "RequiresRegion": true,
                         "BodyName": "Mun",
                         "ScienceSituation": "LowOrbit",
-                        "ScienceRegion": "MunMare",
-                        "ResearchLocationId": "Mun_LowOrbit_MunMare"
+                        "ScienceRegion": "MunCraters",
+                        "ResearchLocationId": "Mun_LowOrbit_MunCraters"
                       }
                     },
                     "ModuleType": "KSP.Modules.Module_ScienceExperiment, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
@@ -27333,8 +27333,8 @@
                         "RequiresRegion": true,
                         "BodyName": "Mun",
                         "ScienceSituation": "LowOrbit",
-                        "ScienceRegion": "MunMare",
-                        "ResearchLocationId": "Mun_LowOrbit_MunMare"
+                        "ScienceRegion": "MunCraters",
+                        "ResearchLocationId": "Mun_LowOrbit_MunCraters"
                       }
                     },
                     "ModuleType": "KSP.Modules.Module_ScienceExperiment, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
@@ -27370,11 +27370,11 @@
       ],
       "CameraGimbalSate": {
         "distance": 5.7532340230676056,
-        "pitch": 17.668080439791083,
-        "heading": 196.51046886015683,
+        "pitch": -0.11052699387073517,
+        "heading": 165.50289876479656,
         "roll": 0.0,
-        "localPitch": 196.51046886015686,
-        "localHeading": 17.66808043979108,
+        "localPitch": 165.50289876479656,
+        "localHeading": 359.88947300612926,
         "pan": {
           "x": 0.0,
           "y": 0.0
@@ -27504,22 +27504,22 @@
         "LocationType": "Orbit",
         "serializedOrbit": {
           "referenceBodyGuid": "Minmus",
-          "inclination": 112.99090077079151,
-          "eccentricity": 0.0071672314159161891,
-          "semiMajorAxis": 96243.3649838108,
-          "longitudeOfAscendingNode": 258.17376880112579,
-          "argumentOfPeriapsis": 165.48664837056396,
-          "meanAnomalyAtEpoch": -0.25955594481423272,
-          "epoch": 188141167.99258882
+          "inclination": 112.99090077079148,
+          "eccentricity": 0.0071672314159162125,
+          "semiMajorAxis": 96243.364983810839,
+          "longitudeOfAscendingNode": 258.17376880112568,
+          "argumentOfPeriapsis": 165.486648370563,
+          "meanAnomalyAtEpoch": -0.1156642808414956,
+          "epoch": 188141270.35264373
         },
         "surfaceLocation": null,
         "rigidbodyState": {
           "referenceTransformGuid": "Minmus",
           "referenceFrameType": "Celestial",
           "localVelocity": {
-            "x": 59.059635620412621,
-            "y": -114.0921261780946,
-            "z": 45.857189990386928
+            "x": 58.469377574170451,
+            "y": -118.50201895326616,
+            "z": 33.908614393548646
           },
           "localAngularVelocity": {
             "x": 0.0,
@@ -27527,9 +27527,9 @@
             "z": 0.0
           },
           "localPosition": {
-            "x": 2479.4499822150638,
-            "y": 36853.471817698512,
-            "z": 88137.582236217961
+            "x": 6358.4060257280089,
+            "y": 29176.88637246329,
+            "z": 90770.208965892234
           },
           "localRotation": {
             "x": -0.51579320430755615,
@@ -28441,11 +28441,11 @@
       ],
       "CameraGimbalSate": {
         "distance": 5.7532340230676056,
-        "pitch": 17.668080439791083,
-        "heading": 196.51046886015683,
+        "pitch": -0.11052699387073517,
+        "heading": 165.50289876479656,
         "roll": 0.0,
-        "localPitch": 196.51046886015686,
-        "localHeading": 17.66808043979108,
+        "localPitch": 165.50289876479656,
+        "localHeading": 359.88947300612926,
         "pan": {
           "x": 0.0,
           "y": 0.0
@@ -28560,8 +28560,8 @@
         "landedAtBaseTime": 0.0,
         "flightCtrlState": {
           "mainThrottle": null,
-          "roll": 0.0200595912,
-          "yaw": 0.48314774,
+          "roll": 0.01620638,
+          "yaw": 0.458705783,
           "pitch": 1.0,
           "rollTrim": null,
           "yawTrim": null,
@@ -29188,22 +29188,22 @@
         "LocationType": "Orbit",
         "serializedOrbit": {
           "referenceBodyGuid": "Duna",
-          "inclination": 69.220350926611317,
-          "eccentricity": 0.0064450751078669721,
-          "semiMajorAxis": 384134.19917438069,
-          "longitudeOfAscendingNode": 222.49822311626357,
-          "argumentOfPeriapsis": 185.06319930401446,
-          "meanAnomalyAtEpoch": -2.0061051819840405,
-          "epoch": 188141167.99258882
+          "inclination": 69.220350671445857,
+          "eccentricity": 0.0064398034119926995,
+          "semiMajorAxis": 384140.44287022436,
+          "longitudeOfAscendingNode": 222.49822314847651,
+          "argumentOfPeriapsis": 184.99913734040913,
+          "meanAnomalyAtEpoch": -1.7692461664835735,
+          "epoch": 188141270.35264373
         },
         "surfaceLocation": null,
         "rigidbodyState": {
           "referenceTransformGuid": "Duna",
           "referenceFrameType": "Celestial",
           "localVelocity": {
-            "x": 682.06238282537345,
-            "y": 177.85815938677547,
-            "z": 533.52613514197844
+            "x": 664.78980334035123,
+            "y": 53.736327385295354,
+            "z": 581.505934169993
           },
           "localAngularVelocity": {
             "x": 0.0,
@@ -29211,9 +29211,9 @@
             "z": 0.0
           },
           "localPosition": {
-            "x": 27113.350357345062,
-            "y": 350986.59496755846,
-            "z": -155585.32696827775
+            "x": 71619.817070078512,
+            "y": 358644.28052425344,
+            "z": -118741.72463561557
           },
           "localRotation": {
             "x": 0.22184194624423981,
@@ -29509,10 +29509,10 @@
                     },
                     "WheelState": "Active",
                     "HasResourcesToOperate": false,
-                    "HasPendingResourceActivity": true,
-                    "InputSumForResource": 18.7904167,
+                    "HasPendingResourceActivity": false,
+                    "InputSumForResource": 0.0,
                     "ModuleType": "KSP.Modules.Module_ReactionWheel, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
-                    "HasPendingInputActivity": true,
+                    "HasPendingInputActivity": false,
                     "DataType": "KSP.Modules.Data_ReactionWheel, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
                     "IsActiveInStagingProp": {
                       "ContextKey": null,
@@ -29778,27 +29778,11 @@
                       "storedValue": true
                     },
                     "HasEnoughResources": true,
-                    "ColorGradientColors": [
-                      {
-                        "x": 0.0,
-                        "y": 0.0,
-                        "z": 0.0,
-                        "w": 0.0
-                      },
-                      {
-                        "x": 1.0,
-                        "y": 1.0,
-                        "z": 1.0,
-                        "w": 1.0
-                      }
-                    ],
-                    "ColorGradientTimes": [
-                      0.0,
-                      1.0
-                    ],
-                    "CurrentLightIntensity": 1.0,
+                    "ColorGradientColors": [],
+                    "ColorGradientTimes": [],
+                    "CurrentLightIntensity": 0.0,
                     "TargetLightIntensity": 0.0,
-                    "DurationMultiplier": 1.0,
+                    "DurationMultiplier": 0.0,
                     "IsTransitioning": false,
                     "Interpolation": 0.0,
                     "LightStateOnBlackout": false,
@@ -29868,8 +29852,8 @@
                         "RequiresRegion": true,
                         "BodyName": "Duna",
                         "ScienceSituation": "LowOrbit",
-                        "ScienceRegion": "DunaPolarDeserts",
-                        "ResearchLocationId": "Duna_LowOrbit_DunaPolarDeserts"
+                        "ScienceRegion": "DunaHighlands",
+                        "ResearchLocationId": "Duna_LowOrbit_DunaHighlands"
                       }
                     },
                     "ModuleType": "KSP.Modules.Module_ScienceExperiment, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
@@ -29994,7 +29978,7 @@
             "isMirrored": false,
             "StageIndex": 0,
             "FuelCrossfeed": true,
-            "Temperature": 162.45661181335069,
+            "Temperature": 162.14349501090695,
             "partPropertyOverrides": null
           },
           "PartModulesState": [
@@ -30542,7 +30526,7 @@
             "isMirrored": false,
             "StageIndex": 0,
             "FuelCrossfeed": false,
-            "Temperature": 164.10893186124019,
+            "Temperature": 163.07420738961841,
             "partPropertyOverrides": null
           },
           "PartModulesState": [
@@ -32784,10 +32768,10 @@
                     },
                     "WheelState": "Active",
                     "HasResourcesToOperate": false,
-                    "HasPendingResourceActivity": true,
-                    "InputSumForResource": 4.5097003,
+                    "HasPendingResourceActivity": false,
+                    "InputSumForResource": 0.0,
                     "ModuleType": "KSP.Modules.Module_ReactionWheel, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
-                    "HasPendingInputActivity": true,
+                    "HasPendingInputActivity": false,
                     "DataType": "KSP.Modules.Data_ReactionWheel, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
                     "IsActiveInStagingProp": {
                       "ContextKey": null,
@@ -34638,10 +34622,10 @@
                     },
                     "WheelState": "Active",
                     "HasResourcesToOperate": false,
-                    "HasPendingResourceActivity": true,
-                    "InputSumForResource": 4.5097003,
+                    "HasPendingResourceActivity": false,
+                    "InputSumForResource": 0.0,
                     "ModuleType": "KSP.Modules.Module_ReactionWheel, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
-                    "HasPendingInputActivity": true,
+                    "HasPendingInputActivity": false,
                     "DataType": "KSP.Modules.Data_ReactionWheel, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
                     "IsActiveInStagingProp": {
                       "ContextKey": null,
@@ -36492,10 +36476,10 @@
                     },
                     "WheelState": "Active",
                     "HasResourcesToOperate": false,
-                    "HasPendingResourceActivity": true,
-                    "InputSumForResource": 4.5097003,
+                    "HasPendingResourceActivity": false,
+                    "InputSumForResource": 0.0,
                     "ModuleType": "KSP.Modules.Module_ReactionWheel, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
-                    "HasPendingInputActivity": true,
+                    "HasPendingInputActivity": false,
                     "DataType": "KSP.Modules.Data_ReactionWheel, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
                     "IsActiveInStagingProp": {
                       "ContextKey": null,
@@ -38346,10 +38330,10 @@
                     },
                     "WheelState": "Active",
                     "HasResourcesToOperate": false,
-                    "HasPendingResourceActivity": true,
-                    "InputSumForResource": 4.5097003,
+                    "HasPendingResourceActivity": false,
+                    "InputSumForResource": 0.0,
                     "ModuleType": "KSP.Modules.Module_ReactionWheel, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
-                    "HasPendingInputActivity": true,
+                    "HasPendingInputActivity": false,
                     "DataType": "KSP.Modules.Data_ReactionWheel, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
                     "IsActiveInStagingProp": {
                       "ContextKey": null,
@@ -40200,10 +40184,10 @@
                     },
                     "WheelState": "Active",
                     "HasResourcesToOperate": false,
-                    "HasPendingResourceActivity": true,
-                    "InputSumForResource": 4.5097003,
+                    "HasPendingResourceActivity": false,
+                    "InputSumForResource": 0.0,
                     "ModuleType": "KSP.Modules.Module_ReactionWheel, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
-                    "HasPendingInputActivity": true,
+                    "HasPendingInputActivity": false,
                     "DataType": "KSP.Modules.Data_ReactionWheel, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
                     "IsActiveInStagingProp": {
                       "ContextKey": null,
@@ -42349,10 +42333,10 @@
                     },
                     "WheelState": "Active",
                     "HasResourcesToOperate": false,
-                    "HasPendingResourceActivity": true,
-                    "InputSumForResource": 4.5097003,
+                    "HasPendingResourceActivity": false,
+                    "InputSumForResource": 0.0,
                     "ModuleType": "KSP.Modules.Module_ReactionWheel, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
-                    "HasPendingInputActivity": true,
+                    "HasPendingInputActivity": false,
                     "DataType": "KSP.Modules.Data_ReactionWheel, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
                     "IsActiveInStagingProp": {
                       "ContextKey": null,
@@ -46630,12 +46614,12 @@
                   "DataObject": {
                     "$type": "KSP.Modules.Data_SolarPanel, Assembly-CSharp",
                     "SimBlockingBody": "",
-                    "SimStarEnergyScale": 0.388960807138148,
+                    "SimStarEnergyScale": 0.38896038553664536,
                     "RequestConfig": {
                       "FlowResource": {
                         "Value": 12
                       },
-                      "FlowUnits": 0.388960807138148,
+                      "FlowUnits": 0.38896038553664536,
                       "TargetUnits": 0.0,
                       "FlowDirection": "FLOW_INBOUND",
                       "FlowModeOverride": "NULL",
@@ -46906,12 +46890,12 @@
                   "DataObject": {
                     "$type": "KSP.Modules.Data_SolarPanel, Assembly-CSharp",
                     "SimBlockingBody": "",
-                    "SimStarEnergyScale": 0.388960807138148,
+                    "SimStarEnergyScale": 0.38896038553664536,
                     "RequestConfig": {
                       "FlowResource": {
                         "Value": 12
                       },
-                      "FlowUnits": 0.388960807138148,
+                      "FlowUnits": 0.38896038553664536,
                       "TargetUnits": 0.0,
                       "FlowDirection": "FLOW_INBOUND",
                       "FlowModeOverride": "NULL",
@@ -47182,12 +47166,12 @@
                   "DataObject": {
                     "$type": "KSP.Modules.Data_SolarPanel, Assembly-CSharp",
                     "SimBlockingBody": "",
-                    "SimStarEnergyScale": 0.388960807138148,
+                    "SimStarEnergyScale": 0.38896038553664536,
                     "RequestConfig": {
                       "FlowResource": {
                         "Value": 12
                       },
-                      "FlowUnits": 0.388960807138148,
+                      "FlowUnits": 0.38896038553664536,
                       "TargetUnits": 0.0,
                       "FlowDirection": "FLOW_INBOUND",
                       "FlowModeOverride": "NULL",
@@ -47458,12 +47442,12 @@
                   "DataObject": {
                     "$type": "KSP.Modules.Data_SolarPanel, Assembly-CSharp",
                     "SimBlockingBody": "",
-                    "SimStarEnergyScale": 0.388960807138148,
+                    "SimStarEnergyScale": 0.38896038553664536,
                     "RequestConfig": {
                       "FlowResource": {
                         "Value": 12
                       },
-                      "FlowUnits": 0.388960807138148,
+                      "FlowUnits": 0.38896038553664536,
                       "TargetUnits": 0.0,
                       "FlowDirection": "FLOW_INBOUND",
                       "FlowModeOverride": "NULL",
@@ -47734,12 +47718,12 @@
                   "DataObject": {
                     "$type": "KSP.Modules.Data_SolarPanel, Assembly-CSharp",
                     "SimBlockingBody": "",
-                    "SimStarEnergyScale": 0.388960807138148,
+                    "SimStarEnergyScale": 0.38896038553664536,
                     "RequestConfig": {
                       "FlowResource": {
                         "Value": 12
                       },
-                      "FlowUnits": 0.388960807138148,
+                      "FlowUnits": 0.38896038553664536,
                       "TargetUnits": 0.0,
                       "FlowDirection": "FLOW_INBOUND",
                       "FlowModeOverride": "NULL",
@@ -48010,12 +47994,12 @@
                   "DataObject": {
                     "$type": "KSP.Modules.Data_SolarPanel, Assembly-CSharp",
                     "SimBlockingBody": "",
-                    "SimStarEnergyScale": 0.388960807138148,
+                    "SimStarEnergyScale": 0.38896038553664536,
                     "RequestConfig": {
                       "FlowResource": {
                         "Value": 12
                       },
-                      "FlowUnits": 0.388960807138148,
+                      "FlowUnits": 0.38896038553664536,
                       "TargetUnits": 0.0,
                       "FlowDirection": "FLOW_INBOUND",
                       "FlowModeOverride": "NULL",
@@ -48617,7 +48601,7 @@
                   "Data": null,
                   "DataObject": {
                     "$type": "KSP.Modules.Data_CargoBay, Assembly-CSharp",
-                    "IsSealed": true,
+                    "IsSealed": false,
                     "ModuleType": "KSP.Modules.Module_CargoBay, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
                     "DataType": "KSP.Modules.Data_CargoBay, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
                     "IsActiveInStagingProp": {
@@ -49121,13 +49105,13 @@
                     "thrustCurveRatio": 1.0,
                     "EngineSpool": 0.0,
                     "ThrustDirRelativePartWorldSpace": {
-                      "x": 0.317126632,
-                      "y": 0.894505441,
-                      "z": 0.315105438
+                      "x": 0.316950381,
+                      "y": 0.8946542,
+                      "z": 0.314859331
                     },
                     "currentEngineModeIndex": 0,
                     "ModuleType": "KSP.Modules.Module_Engine, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
-                    "State": "Running",
+                    "State": "Off",
                     "IsOperational": true,
                     "DataType": "KSP.Modules.Data_Engine, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
                     "IsActiveInStagingProp": {
@@ -49572,7 +49556,7 @@
             "isMirrored": false,
             "StageIndex": 0,
             "FuelCrossfeed": true,
-            "Temperature": 186.23303351678044,
+            "Temperature": 170.55133178662203,
             "partPropertyOverrides": null
           },
           "PartModulesState": [
@@ -49865,7 +49849,7 @@
             "isMirrored": false,
             "StageIndex": 2,
             "FuelCrossfeed": false,
-            "Temperature": 201.40514207743948,
+            "Temperature": 173.32819437837753,
             "partPropertyOverrides": null
           },
           "PartModulesState": [
@@ -50175,7 +50159,7 @@
             "isMirrored": false,
             "StageIndex": 2,
             "FuelCrossfeed": true,
-            "Temperature": 171.46796447196056,
+            "Temperature": 162.83108792941294,
             "partPropertyOverrides": null
           },
           "PartModulesState": [
@@ -50379,7 +50363,7 @@
             "isMirrored": false,
             "StageIndex": 1,
             "FuelCrossfeed": false,
-            "Temperature": 228.78569257907137,
+            "Temperature": 160.0,
             "partPropertyOverrides": null
           },
           "PartModulesState": [
@@ -50584,11 +50568,11 @@
       ],
       "CameraGimbalSate": {
         "distance": 5.7532340230676056,
-        "pitch": 17.668080439791083,
-        "heading": 196.51046886015683,
+        "pitch": -0.11052699387073517,
+        "heading": 165.50289876479656,
         "roll": 0.0,
-        "localPitch": 196.51046886015686,
-        "localHeading": 17.66808043979108,
+        "localPitch": 165.50289876479656,
+        "localHeading": 359.88947300612926,
         "pan": {
           "x": 0.0,
           "y": 0.0
@@ -50853,22 +50837,22 @@
         "LocationType": "Orbit",
         "serializedOrbit": {
           "referenceBodyGuid": "Kerbin",
-          "inclination": 0.54307541048758834,
-          "eccentricity": 0.24071009205495666,
-          "semiMajorAxis": 955189.93490852346,
-          "longitudeOfAscendingNode": 201.56629955173875,
-          "argumentOfPeriapsis": 221.51067557404062,
-          "meanAnomalyAtEpoch": 1.1581839155082359,
-          "epoch": 188141167.99258882
+          "inclination": 0.54306074047642394,
+          "eccentricity": 0.24070595719099408,
+          "semiMajorAxis": 955210.67382832628,
+          "longitudeOfAscendingNode": 201.56483643382862,
+          "argumentOfPeriapsis": 221.51461384901017,
+          "meanAnomalyAtEpoch": 1.3639558684479371,
+          "epoch": 188141270.35264373
         },
         "surfaceLocation": null,
         "rigidbodyState": {
           "referenceTransformGuid": "Kerbin",
           "referenceFrameType": "Celestial",
           "localVelocity": {
-            "x": -970.549884871909,
-            "y": 11.50342572509393,
-            "z": -1688.5672985778215
+            "x": -722.79621156846133,
+            "y": 12.843116815795021,
+            "z": -1742.6223610130164
           },
           "localAngularVelocity": {
             "x": 0.0,
@@ -50876,9 +50860,9 @@
             "z": 0.0
           },
           "localPosition": {
-            "x": -906506.79211783363,
-            "y": -5446.090241702952,
-            "z": 259552.24579638205
+            "x": -962314.52926269558,
+            "y": -4641.021668826108,
+            "z": 146203.93502540494
           },
           "localRotation": {
             "x": -0.61379516124725342,
@@ -50981,7 +50965,7 @@
             "isMirrored": false,
             "StageIndex": 0,
             "FuelCrossfeed": false,
-            "Temperature": 33.979196748221575,
+            "Temperature": 16.531281108261968,
             "partPropertyOverrides": null
           },
           "PartModulesState": [
@@ -51302,7 +51286,7 @@
             "isMirrored": false,
             "StageIndex": 0,
             "FuelCrossfeed": true,
-            "Temperature": 66.044046480692728,
+            "Temperature": 63.996726069168531,
             "partPropertyOverrides": null
           },
           "PartModulesState": [
@@ -51577,7 +51561,7 @@
             "isMirrored": false,
             "StageIndex": 0,
             "FuelCrossfeed": true,
-            "Temperature": 66.044027778955908,
+            "Temperature": 63.996707973799012,
             "partPropertyOverrides": null
           },
           "PartModulesState": [
@@ -51841,7 +51825,7 @@
             "isMirrored": false,
             "StageIndex": 0,
             "FuelCrossfeed": true,
-            "Temperature": 100.58939689487289,
+            "Temperature": 98.466234410028122,
             "partPropertyOverrides": null
           },
           "PartModulesState": [
@@ -52593,7 +52577,7 @@
             "isMirrored": false,
             "StageIndex": 0,
             "FuelCrossfeed": true,
-            "Temperature": 39.1104163273251,
+            "Temperature": 21.739767554173007,
             "partPropertyOverrides": null
           },
           "PartModulesState": [
@@ -52974,7 +52958,7 @@
             "isMirrored": false,
             "StageIndex": 0,
             "FuelCrossfeed": true,
-            "Temperature": 39.110456375575076,
+            "Temperature": 21.739812479866075,
             "partPropertyOverrides": null
           },
           "PartModulesState": [
@@ -53355,7 +53339,7 @@
             "isMirrored": false,
             "StageIndex": 0,
             "FuelCrossfeed": true,
-            "Temperature": 39.110469584555425,
+            "Temperature": 21.739825260973227,
             "partPropertyOverrides": null
           },
           "PartModulesState": [
@@ -53736,7 +53720,7 @@
             "isMirrored": false,
             "StageIndex": 0,
             "FuelCrossfeed": true,
-            "Temperature": 39.110450728468834,
+            "Temperature": 21.739805451146538,
             "partPropertyOverrides": null
           },
           "PartModulesState": [
@@ -57272,11 +57256,11 @@
       ],
       "CameraGimbalSate": {
         "distance": 5.7532340230676056,
-        "pitch": 17.668080439791083,
-        "heading": 196.51046886015683,
+        "pitch": -0.11052699387073517,
+        "heading": 165.50289876479656,
         "roll": 0.0,
-        "localPitch": 196.51046886015686,
-        "localHeading": 17.66808043979108,
+        "localPitch": 165.50289876479656,
+        "localHeading": 359.88947300612926,
         "pan": {
           "x": 0.0,
           "y": 0.0
@@ -57463,22 +57447,22 @@
         "LocationType": "Orbit",
         "serializedOrbit": {
           "referenceBodyGuid": "Kerbol",
-          "inclination": 0.60876375851357356,
-          "eccentricity": 0.10197824087028437,
-          "semiMajorAxis": 12499904340.415512,
-          "longitudeOfAscendingNode": 250.21559915671406,
-          "argumentOfPeriapsis": 29.41357136169901,
-          "meanAnomalyAtEpoch": 1.5638451828383013,
-          "epoch": 188141167.99258882
+          "inclination": 0.60876377047994512,
+          "eccentricity": 0.10197824097107779,
+          "semiMajorAxis": 12499904337.829889,
+          "longitudeOfAscendingNode": 250.21559993976632,
+          "argumentOfPeriapsis": 29.413570526029208,
+          "meanAnomalyAtEpoch": 1.5639243948542014,
+          "epoch": 188141270.35264373
         },
         "surfaceLocation": null,
         "rigidbodyState": {
           "referenceTransformGuid": "Kerbol",
           "referenceFrameType": "Celestial",
           "localVelocity": {
-            "x": -2485.7712514027871,
-            "y": -58.16960534717618,
-            "z": 9263.6366229697724
+            "x": -2486.2249354190817,
+            "y": -58.1735198300622,
+            "z": 9263.4638101642668
           },
           "localAngularVelocity": {
             "x": 0.0,
@@ -57486,9 +57470,9 @@
             "z": 0.0
           },
           "localPosition": {
-            "x": 11793442151.551821,
-            "y": 101757558.58461274,
-            "z": 4491904007.53592
+            "x": 11793278173.352848,
+            "y": 101753724.76116982,
+            "z": 4492515032.2636156
           },
           "localRotation": {
             "x": -0.21691484749317169,
@@ -57591,7 +57575,7 @@
             "isMirrored": false,
             "StageIndex": 0,
             "FuelCrossfeed": false,
-            "Temperature": 33.979104369536053,
+            "Temperature": 16.531235504899342,
             "partPropertyOverrides": null
           },
           "PartModulesState": [
@@ -57912,7 +57896,7 @@
             "isMirrored": false,
             "StageIndex": 0,
             "FuelCrossfeed": true,
-            "Temperature": 64.206505363274317,
+            "Temperature": 60.295438355506221,
             "partPropertyOverrides": null
           },
           "PartModulesState": [
@@ -58176,7 +58160,7 @@
             "isMirrored": false,
             "StageIndex": 0,
             "FuelCrossfeed": true,
-            "Temperature": 27.778267595465628,
+            "Temperature": 11.415041472625548,
             "partPropertyOverrides": null
           },
           "PartModulesState": [
@@ -58699,7 +58683,7 @@
             "isMirrored": false,
             "StageIndex": 0,
             "FuelCrossfeed": true,
-            "Temperature": 81.000184748731911,
+            "Temperature": 77.64222884299457,
             "partPropertyOverrides": null
           },
           "PartModulesState": [
@@ -60706,11 +60690,11 @@
       ],
       "CameraGimbalSate": {
         "distance": 5.7532340230676056,
-        "pitch": 17.668080439791083,
-        "heading": 196.51046886015683,
+        "pitch": -0.11052699387073517,
+        "heading": 165.50289876479656,
         "roll": 0.0,
-        "localPitch": 196.51046886015686,
-        "localHeading": 17.66808043979108,
+        "localPitch": 165.50289876479656,
+        "localHeading": 359.88947300612926,
         "pan": {
           "x": 0.0,
           "y": 0.0
@@ -60839,10 +60823,10 @@
         "landedAtBase": null,
         "landedAtBaseTime": 0.0,
         "flightCtrlState": {
-          "mainThrottle": 0.3077643,
-          "roll": 0.0071422956,
-          "yaw": -0.177977279,
-          "pitch": -0.04276504,
+          "mainThrottle": null,
+          "roll": -0.0158434827,
+          "yaw": -0.0575695336,
+          "pitch": -0.460861057,
           "rollTrim": null,
           "yawTrim": null,
           "pitchTrim": null,
@@ -61325,38 +61309,38 @@
         "LocationType": "SurfaceCoordinates",
         "serializedOrbit": {
           "referenceBodyGuid": "Duna",
-          "inclination": 105.05057061253927,
-          "eccentricity": 0.99496347749349057,
-          "semiMajorAxis": 161413.29281923844,
-          "longitudeOfAscendingNode": 53.700169261830467,
-          "argumentOfPeriapsis": 299.98131823091688,
-          "meanAnomalyAtEpoch": -3.1234800501721209,
-          "epoch": 188141227.07262051
+          "inclination": 90.211841247988161,
+          "eccentricity": 0.976613285861529,
+          "semiMajorAxis": 162387.68603607608,
+          "longitudeOfAscendingNode": 75.97062687197365,
+          "argumentOfPeriapsis": 306.96637492599325,
+          "meanAnomalyAtEpoch": 3.1321496572816572,
+          "epoch": 188141293.15265596
         },
         "surfaceLocation": null,
         "rigidbodyState": {
           "referenceTransformGuid": "Duna",
           "referenceFrameType": "Body",
           "localVelocity": {
-            "x": -6.1708097457885742,
-            "y": -38.432590484619141,
-            "z": -68.014236450195313
+            "x": 60.867923736572266,
+            "y": -86.500907897949219,
+            "z": -105.63111114501953
           },
           "localAngularVelocity": {
-            "x": 0.059942629188299179,
-            "y": 0.023378713056445122,
-            "z": -0.0072138472460210323
+            "x": 0.011154240928590298,
+            "y": 0.00535462936386466,
+            "z": 0.00819743424654007
           },
           "localPosition": {
-            "x": 116060.64947265889,
-            "y": 269303.082646079,
-            "z": -133019.14459974188
+            "x": 121645.17424480474,
+            "y": 256555.41464461651,
+            "z": -149689.88306139759
           },
           "localRotation": {
-            "x": 0.42404773831367493,
-            "y": 0.53437203168869019,
-            "z": -0.70252811908721924,
-            "w": -0.20269268751144409
+            "x": 0.18036884069442749,
+            "y": 0.49704307317733765,
+            "z": -0.834587037563324,
+            "w": 0.15453046560287476
           },
           "PhysicsMode": "RigidBody"
         },
@@ -61461,10 +61445,10 @@
               "z": 0.0
             },
             "localRotation": {
-              "x": -9.4667020889005471E-09,
-              "y": 2.044282609858783E-08,
-              "z": -2.279703537055866E-09,
-              "w": 1.0000001413398012
+              "x": 8.4361728269755076E-08,
+              "y": -1.1871925664763694E-10,
+              "z": -3.4897098544206528E-09,
+              "w": 0.99999994385940028
             },
             "UserRotation": {
               "x": 0.0,
@@ -61475,7 +61459,7 @@
             "isMirrored": false,
             "StageIndex": 1,
             "FuelCrossfeed": true,
-            "Temperature": 201.96114036551108,
+            "Temperature": 221.15575438119018,
             "partPropertyOverrides": null
           },
           "PartModulesState": [
@@ -61513,8 +61497,8 @@
                       "ContextKey": "thrustPercentage",
                       "storedValue": 100.0
                     },
-                    "FinalThrustValue": 6.155283,
-                    "RealISPValue": 314.999847,
+                    "FinalThrustValue": 0.0,
+                    "RealISPValue": 314.998718,
                     "stagingOn": {
                       "ContextKey": "stagingOn",
                       "storedValue": true
@@ -61523,14 +61507,14 @@
                     "Flameout": false,
                     "EngineIgnited": true,
                     "EngineShutdown": false,
-                    "currentThrottle": 0.3077643,
+                    "currentThrottle": 0.0,
                     "thrustCurveDisplay": 1.0,
                     "thrustCurveRatio": 1.0,
-                    "EngineSpool": 0.3077643,
+                    "EngineSpool": 0.0,
                     "ThrustDirRelativePartWorldSpace": {
-                      "x": 0.193135262,
-                      "y": -0.313830823,
-                      "z": -0.929628432
+                      "x": 0.434171379,
+                      "y": -0.448283643,
+                      "z": -0.781368732
                     },
                     "currentEngineModeIndex": 0,
                     "ModuleType": "KSP.Modules.Module_Engine, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
@@ -61648,7 +61632,7 @@
                       "FlowResource": {
                         "Value": 12
                       },
-                      "FlowUnits": 0.61552828550338745,
+                      "FlowUnits": 0.0,
                       "TargetUnits": 0.0,
                       "FlowDirection": "FLOW_INBOUND",
                       "FlowModeOverride": "NULL",
@@ -62090,19 +62074,19 @@
             "resources": {
               "Methane": {
                 "name": "Methane",
-                "storedUnits": 0.0072786519018111324,
+                "storedUnits": 0.005992970501860366,
                 "capacityUnits": 0.017
               },
               "Oxidizer": {
                 "name": "Oxidizer",
-                "storedUnits": 0.02911460760724453,
+                "storedUnits": 0.023971882007441464,
                 "capacityUnits": 0.068
               }
             },
             "localPosition": {
-              "x": 0.00010460757766850293,
-              "y": 0.30282191779406276,
-              "z": -5.1229522796347737E-05
+              "x": 0.00010652550554368645,
+              "y": 0.30283380538458005,
+              "z": -5.1186245400458574E-05
             },
             "originalAttachLocalPosition": {
               "x": 0.0,
@@ -62110,10 +62094,10 @@
               "z": 0.0
             },
             "localRotation": {
-              "x": -0.00014493302890628001,
-              "y": 9.0054760093494224E-08,
-              "z": -1.5397209903511566E-05,
-              "w": 0.99999998243509935
+              "x": -0.00014455344816255433,
+              "y": 1.3405374588160157E-07,
+              "z": -1.6804578136131454E-05,
+              "w": 1.0000000140140006
             },
             "UserRotation": {
               "x": 0.0,
@@ -62124,7 +62108,7 @@
             "isMirrored": false,
             "StageIndex": 1,
             "FuelCrossfeed": true,
-            "Temperature": 231.99153137209061,
+            "Temperature": 232.81088256835938,
             "partPropertyOverrides": null
           },
           "PartModulesState": [
@@ -62365,19 +62349,19 @@
             "resources": {
               "Methane": {
                 "name": "Methane",
-                "storedUnits": 0.10275743861375632,
+                "storedUnits": 0.084606642379172689,
                 "capacityUnits": 0.24
               },
               "Oxidizer": {
                 "name": "Oxidizer",
-                "storedUnits": 0.41102975445502526,
+                "storedUnits": 0.33842656951669076,
                 "capacityUnits": 0.96
               }
             },
             "localPosition": {
-              "x": 7.3549366788938642E-05,
-              "y": 1.6070586317800917,
-              "z": -0.00011947692837566137
+              "x": 7.7574281021952629E-05,
+              "y": 1.6070889905022341,
+              "z": -0.00014436797937378287
             },
             "originalAttachLocalPosition": {
               "x": 0.0,
@@ -62385,10 +62369,10 @@
               "z": 0.0
             },
             "localRotation": {
-              "x": -1.0000000920688414,
-              "y": 1.1437753057563782E-05,
-              "z": 9.1248806084465173E-06,
-              "w": -0.0001592638751515274
+              "x": -0.999999954660856,
+              "y": 1.1527121886345526E-05,
+              "z": 9.4789754729873721E-06,
+              "w": -0.00015956821071050342
             },
             "UserRotation": {
               "x": 0.0,
@@ -62399,7 +62383,7 @@
             "isMirrored": false,
             "StageIndex": 1,
             "FuelCrossfeed": true,
-            "Temperature": 229.62611917675383,
+            "Temperature": 231.308872638553,
             "partPropertyOverrides": null
           },
           "PartModulesState": [
@@ -62640,19 +62624,19 @@
             "resources": {
               "Methane": {
                 "name": "Methane",
-                "storedUnits": 0.10275743861375632,
+                "storedUnits": 0.084606642379172689,
                 "capacityUnits": 0.24
               },
               "Oxidizer": {
                 "name": "Oxidizer",
-                "storedUnits": 0.41102975445502526,
+                "storedUnits": 0.33842656951669076,
                 "capacityUnits": 0.96
               }
             },
             "localPosition": {
-              "x": 0.00010561547242105007,
-              "y": 3.1070576425991021,
-              "z": -0.00048400970990769565
+              "x": 0.00010395962453912944,
+              "y": 3.1071459698214312,
+              "z": -0.0004982649115845561
             },
             "originalAttachLocalPosition": {
               "x": 0.0,
@@ -62660,10 +62644,10 @@
               "z": 0.0
             },
             "localRotation": {
-              "x": -0.00017932116872199089,
-              "y": -5.6356826227954571E-07,
-              "z": -1.1979134731276986E-05,
-              "w": 1.000000069437557
+              "x": -0.00018009721019929259,
+              "y": -6.3133768612999575E-07,
+              "z": -1.2621465934614662E-05,
+              "w": 1.0000000088988514
             },
             "UserRotation": {
               "x": 0.0,
@@ -62674,7 +62658,7 @@
             "isMirrored": false,
             "StageIndex": 1,
             "FuelCrossfeed": true,
-            "Temperature": 231.99153153580443,
+            "Temperature": 232.81088256835938,
             "partPropertyOverrides": null
           },
           "PartModulesState": [
@@ -62915,14 +62899,14 @@
             "resources": {
               "ElectricCharge": {
                 "name": "ElectricCharge",
-                "storedUnits": 199.99929303144907,
+                "storedUnits": 199.76278267696867,
                 "capacityUnits": 200.0
               }
             },
             "localPosition": {
-              "x": 0.00013682901044376194,
-              "y": 4.3403118645801442,
-              "z": -0.00052741816034540534
+              "x": 0.0001586373255122453,
+              "y": 4.3403887912791106,
+              "z": -0.00056254881201311946
             },
             "originalAttachLocalPosition": {
               "x": 0.0,
@@ -62930,10 +62914,10 @@
               "z": 0.0
             },
             "localRotation": {
-              "x": -0.00019759476937686316,
-              "y": 3.8481098609821629E-06,
-              "z": -8.768334980757686E-06,
-              "w": 1.0000000096505186
+              "x": -0.00019841828543309958,
+              "y": 2.7596717755429268E-06,
+              "z": -9.2555630759605378E-06,
+              "w": 0.99999999228273406
             },
             "UserRotation": {
               "x": 0.0,
@@ -62944,7 +62928,7 @@
             "isMirrored": false,
             "StageIndex": 1,
             "FuelCrossfeed": true,
-            "Temperature": 231.99153172325495,
+            "Temperature": 232.81088256835938,
             "partPropertyOverrides": null
           },
           "PartModulesState": [
@@ -63140,9 +63124,9 @@
             ],
             "resources": null,
             "localPosition": {
-              "x": 0.00016401053289882839,
-              "y": 4.6982983078632969,
-              "z": -0.00058509715017862618
+              "x": 0.00018059129070024937,
+              "y": 4.6983980913064443,
+              "z": -0.00061681179795414209
             },
             "originalAttachLocalPosition": {
               "x": 0.0,
@@ -63150,10 +63134,10 @@
               "z": 0.0
             },
             "localRotation": {
-              "x": -0.00020478387847333579,
-              "y": 3.7509989301298674E-06,
-              "z": -7.072959119724942E-06,
-              "w": 1.0000000093222061
+              "x": -0.00020517137302178412,
+              "y": 3.0134080439836453E-06,
+              "z": -7.3113711795969039E-06,
+              "w": 1.0000000724365687
             },
             "UserRotation": {
               "x": 0.0,
@@ -63164,7 +63148,7 @@
             "isMirrored": false,
             "StageIndex": 1,
             "FuelCrossfeed": true,
-            "Temperature": 231.99160710250436,
+            "Temperature": 232.81088256835938,
             "partPropertyOverrides": null
           },
           "PartModulesState": [
@@ -63249,7 +63233,7 @@
                     "WheelState": "Active",
                     "HasResourcesToOperate": true,
                     "HasPendingResourceActivity": true,
-                    "InputSumForResource": 1.11429918,
+                    "InputSumForResource": 1.0511713,
                     "ModuleType": "KSP.Modules.Module_ReactionWheel, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
                     "HasPendingInputActivity": true,
                     "DataType": "KSP.Modules.Data_ReactionWheel, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
@@ -63377,9 +63361,9 @@
             ],
             "resources": null,
             "localPosition": {
-              "x": 0.13380752166267484,
-              "y": 4.3366628411895363,
-              "z": 0.29448801057878882
+              "x": 0.13381975708762184,
+              "y": 4.3367622959121945,
+              "z": 0.29444757453165948
             },
             "originalAttachLocalPosition": {
               "x": 0.0,
@@ -63387,10 +63371,10 @@
               "z": 0.0
             },
             "localRotation": {
-              "x": -0.0083750935126269965,
-              "y": 0.7069199457603963,
-              "z": -0.70723312787148407,
-              "w": -0.00393108887112481
+              "x": -0.0083744484274568265,
+              "y": 0.70691934800127676,
+              "z": -0.70723362364505782,
+              "w": -0.0039309808391649881
             },
             "UserRotation": {
               "x": 0.0,
@@ -63401,7 +63385,7 @@
             "isMirrored": false,
             "StageIndex": 1,
             "FuelCrossfeed": true,
-            "Temperature": 231.99153171735438,
+            "Temperature": 232.81088256835938,
             "partPropertyOverrides": null
           },
           "PartModulesState": [
@@ -63519,9 +63503,9 @@
                   "DataObject": {
                     "$type": "KSP.Modules.Data_WheelSuspension, Assembly-CSharp",
                     "suspensionPos": {
-                      "x": -0.80000174,
-                      "y": -0.7400025,
-                      "z": -3.25590258E-06
+                      "x": -0.799964964,
+                      "y": -0.7399954,
+                      "z": 1.09672546E-05
                     },
                     "suspensionDefaultPos": {
                       "x": -0.799999952,
@@ -63753,9 +63737,9 @@
             ],
             "resources": null,
             "localPosition": {
-              "x": -0.13355224899714813,
-              "y": 4.3365831376722781,
-              "z": 0.29453873107559048
+              "x": -0.13350874026946258,
+              "y": 4.336682002976886,
+              "z": 0.29451800271635875
             },
             "originalAttachLocalPosition": {
               "x": 0.0,
@@ -63763,10 +63747,10 @@
               "z": 0.0
             },
             "localRotation": {
-              "x": 0.707235224902611,
-              "y": 0.0039166770344776225,
-              "z": 0.0083973770881637932,
-              "w": -0.70691771046786656
+              "x": 0.707235760165589,
+              "y": 0.00391706726819141,
+              "z": 0.0083979860056091482,
+              "w": -0.70691707136136994
             },
             "UserRotation": {
               "x": 0.0,
@@ -63777,7 +63761,7 @@
             "isMirrored": true,
             "StageIndex": 1,
             "FuelCrossfeed": true,
-            "Temperature": 231.99153171721863,
+            "Temperature": 232.81088256835938,
             "partPropertyOverrides": null
           },
           "PartModulesState": [
@@ -63895,9 +63879,9 @@
                   "DataObject": {
                     "$type": "KSP.Modules.Data_WheelSuspension, Assembly-CSharp",
                     "suspensionPos": {
-                      "x": -0.7999991,
-                      "y": -0.739997,
-                      "z": 4.67896552E-06
+                      "x": -0.799993932,
+                      "y": -0.7400011,
+                      "z": -3.33785965E-06
                     },
                     "suspensionDefaultPos": {
                       "x": -0.799999952,
@@ -64129,9 +64113,9 @@
             ],
             "resources": null,
             "localPosition": {
-              "x": 0.32238489456358366,
-              "y": 4.3381214174150955,
-              "z": -0.00020219531143084168
+              "x": 0.32236641840427183,
+              "y": 4.3381906972135766,
+              "z": -0.00022647756850346923
             },
             "originalAttachLocalPosition": {
               "x": 0.0,
@@ -64139,10 +64123,10 @@
               "z": 0.0
             },
             "localRotation": {
-              "x": 4.6078041711083984E-06,
-              "y": 0.00018281451551649397,
-              "z": 1.000000065003829,
-              "w": 4.8739649329831991E-06
+              "x": 4.793694030169604E-06,
+              "y": 0.00018309804814897745,
+              "z": 0.99999997782957983,
+              "w": 4.0877793328064627E-06
             },
             "UserRotation": {
               "x": 0.0,
@@ -64153,7 +64137,7 @@
             "isMirrored": false,
             "StageIndex": -1,
             "FuelCrossfeed": true,
-            "Temperature": 231.99153137207031,
+            "Temperature": 232.81088256835938,
             "partPropertyOverrides": null
           },
           "PartModulesState": [
@@ -64206,9 +64190,9 @@
                     "thrustCurveRatio": 1.0,
                     "EngineSpool": 0.0,
                     "ThrustDirRelativePartWorldSpace": {
-                      "x": -0.159771517,
-                      "y": 0.3382388,
-                      "z": 0.92739886
+                      "x": -0.435865074,
+                      "y": 0.4631188,
+                      "z": 0.771715164
                     },
                     "currentEngineModeIndex": 0,
                     "ModuleType": "KSP.Modules.Module_Engine, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
@@ -64513,9 +64497,9 @@
             ],
             "resources": null,
             "localPosition": {
-              "x": 0.00011500698747113347,
-              "y": 4.3380234832147835,
-              "z": -0.32282641608617269
+              "x": 0.00011981383431702852,
+              "y": 4.3381175685935887,
+              "z": -0.32289773441152647
             },
             "originalAttachLocalPosition": {
               "x": 0.0,
@@ -64523,10 +64507,10 @@
               "z": 0.0
             },
             "localRotation": {
-              "x": 0.70710322746889,
-              "y": 0.0001214205601804963,
-              "z": 0.70711024341422934,
-              "w": 0.00012410235029669536
+              "x": 0.70710273272870428,
+              "y": 0.00012188781677391347,
+              "z": 0.70711077286798041,
+              "w": 0.00012475506056208729
             },
             "UserRotation": {
               "x": 0.0,
@@ -64537,7 +64521,7 @@
             "isMirrored": false,
             "StageIndex": -1,
             "FuelCrossfeed": true,
-            "Temperature": 231.99153137207031,
+            "Temperature": 232.81088256835938,
             "partPropertyOverrides": null
           },
           "PartModulesState": [
@@ -64590,9 +64574,9 @@
                     "thrustCurveRatio": 1.0,
                     "EngineSpool": 0.0,
                     "ThrustDirRelativePartWorldSpace": {
-                      "x": -0.159761637,
-                      "y": 0.338252872,
-                      "z": 0.9273952
+                      "x": -0.435868055,
+                      "y": 0.4631345,
+                      "z": 0.771703959
                     },
                     "currentEngineModeIndex": 0,
                     "ModuleType": "KSP.Modules.Module_Engine, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
@@ -64897,9 +64881,9 @@
             ],
             "resources": null,
             "localPosition": {
-              "x": -0.32209107943344861,
-              "y": 4.3381694799172692,
-              "z": -0.0005250308895483613
+              "x": -0.32208504072332289,
+              "y": 4.3382376161316643,
+              "z": -0.00054068252211436629
             },
             "originalAttachLocalPosition": {
               "x": 0.0,
@@ -64907,10 +64891,10 @@
               "z": 0.0
             },
             "localRotation": {
-              "x": 1.000000040914899,
-              "y": -1.9301163334262128E-08,
-              "z": 8.6484485608551154E-06,
-              "w": 0.00019101665464171802
+              "x": 1.0000000288240773,
+              "y": -6.18862783241525E-07,
+              "z": 9.308435394927983E-06,
+              "w": 0.00019249903412799085
             },
             "UserRotation": {
               "x": 0.0,
@@ -64921,7 +64905,7 @@
             "isMirrored": false,
             "StageIndex": -1,
             "FuelCrossfeed": true,
-            "Temperature": 231.99153137207031,
+            "Temperature": 232.81088256835938,
             "partPropertyOverrides": null
           },
           "PartModulesState": [
@@ -64974,9 +64958,9 @@
                     "thrustCurveRatio": 1.0,
                     "EngineSpool": 0.0,
                     "ThrustDirRelativePartWorldSpace": {
-                      "x": -0.159790441,
-                      "y": 0.338236958,
-                      "z": 0.927396357
+                      "x": -0.435877472,
+                      "y": 0.463105,
+                      "z": 0.7717163
                     },
                     "currentEngineModeIndex": 0,
                     "ModuleType": "KSP.Modules.Module_Engine, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
@@ -65281,9 +65265,9 @@
             ],
             "resources": null,
             "localPosition": {
-              "x": 7.3117058491334319E-05,
-              "y": 4.3385180333134485,
-              "z": 0.32023291738005355
+              "x": 0.00010243733413517475,
+              "y": 4.3385868770201341,
+              "z": 0.32020062411902472
             },
             "originalAttachLocalPosition": {
               "x": 0.0,
@@ -65291,10 +65275,10 @@
               "z": 0.0
             },
             "localRotation": {
-              "x": 0.70710453903275994,
-              "y": -0.00021499277220415891,
-              "z": -0.70710900638362739,
-              "w": 0.00021414707267108923
+              "x": 0.70710597295997868,
+              "y": -0.00021615346484171738,
+              "z": -0.70710757542825764,
+              "w": 0.00021411659215697654
             },
             "UserRotation": {
               "x": 0.0,
@@ -65305,7 +65289,7 @@
             "isMirrored": false,
             "StageIndex": -1,
             "FuelCrossfeed": true,
-            "Temperature": 231.99153137207031,
+            "Temperature": 232.81088256835938,
             "partPropertyOverrides": null
           },
           "PartModulesState": [
@@ -65358,9 +65342,9 @@
                     "thrustCurveRatio": 1.0,
                     "EngineSpool": 0.0,
                     "ThrustDirRelativePartWorldSpace": {
-                      "x": -0.15997465,
-                      "y": 0.338104337,
-                      "z": 0.927412748
+                      "x": -0.4359088,
+                      "y": 0.462906837,
+                      "z": 0.771817446
                     },
                     "currentEngineModeIndex": 0,
                     "ModuleType": "KSP.Modules.Module_Engine, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
@@ -65665,9 +65649,9 @@
             ],
             "resources": null,
             "localPosition": {
-              "x": 0.00013620287063531578,
-              "y": 2.3264290426159278,
-              "z": -0.76324810163350776
+              "x": 0.00012972865079063922,
+              "y": 2.3265021039987914,
+              "z": -0.76326373376650736
             },
             "originalAttachLocalPosition": {
               "x": 0.0,
@@ -65675,10 +65659,10 @@
               "z": 0.0
             },
             "localRotation": {
-              "x": -0.00041525772018413676,
-              "y": -1.2779392921657973E-06,
-              "z": -1.209427958670517E-05,
-              "w": 0.99999994601419839
+              "x": -0.00041650876692322925,
+              "y": -2.0713194590626927E-06,
+              "z": -1.298324767518011E-05,
+              "w": 0.999999876091394
             },
             "UserRotation": {
               "x": 0.0,
@@ -65689,7 +65673,7 @@
             "isMirrored": false,
             "StageIndex": 1,
             "FuelCrossfeed": true,
-            "Temperature": 190.82459734938618,
+            "Temperature": 211.49944516781716,
             "partPropertyOverrides": null
           },
           "PartModulesState": [
@@ -66015,9 +65999,9 @@
             ],
             "resources": null,
             "localPosition": {
-              "x": 0.33407802906003781,
-              "y": 4.1001356155466055,
-              "z": -0.00082749847206287086
+              "x": 0.33406963630113751,
+              "y": 4.100208231539,
+              "z": -0.00082996784476563334
             },
             "originalAttachLocalPosition": {
               "x": 0.0,
@@ -66025,10 +66009,10 @@
               "z": 0.0
             },
             "localRotation": {
-              "x": -0.11997507120393003,
-              "y": 0.99277693273324674,
-              "z": -0.00017826834673484449,
-              "w": -2.0016706155256969E-05
+              "x": -0.11997447873762734,
+              "y": 0.99277699475821191,
+              "z": -0.00017914119018147545,
+              "w": -2.0016141696110878E-05
             },
             "UserRotation": {
               "x": 0.0,
@@ -66039,7 +66023,7 @@
             "isMirrored": false,
             "StageIndex": 1,
             "FuelCrossfeed": true,
-            "Temperature": 215.27167313553571,
+            "Temperature": 229.41904947632452,
             "partPropertyOverrides": null
           },
           "PartModulesState": [
@@ -66061,7 +66045,7 @@
                     },
                     "thrustPercentage": {
                       "ContextKey": "thrustPercentage",
-                      "storedValue": 6.0
+                      "storedValue": 11.0
                     },
                     "IsAdvancedSettingsShown": {
                       "ContextKey": "IsAdvancedSettingsShown",
@@ -66279,9 +66263,9 @@
             ],
             "resources": null,
             "localPosition": {
-              "x": 0.00012909792712889612,
-              "y": 4.10001679774723,
-              "z": -0.33479548915056512
+              "x": 0.00013007297820877284,
+              "y": 4.1001037553651258,
+              "z": -0.33478593657491729
             },
             "originalAttachLocalPosition": {
               "x": 0.0,
@@ -66289,10 +66273,10 @@
               "z": 0.0
             },
             "localRotation": {
-              "x": -0.084709383341537325,
-              "y": 0.70201543866322069,
-              "z": 0.084725957942299424,
-              "w": -0.702011562878277
+              "x": -0.084708413191727061,
+              "y": 0.70201561491188258,
+              "z": 0.084725800978674215,
+              "w": -0.70201149622982584
             },
             "UserRotation": {
               "x": 0.0,
@@ -66303,7 +66287,7 @@
             "isMirrored": false,
             "StageIndex": 1,
             "FuelCrossfeed": true,
-            "Temperature": 215.49184554527983,
+            "Temperature": 229.41786837174331,
             "partPropertyOverrides": null
           },
           "PartModulesState": [
@@ -66325,7 +66309,7 @@
                     },
                     "thrustPercentage": {
                       "ContextKey": "thrustPercentage",
-                      "storedValue": 6.0
+                      "storedValue": 11.0
                     },
                     "IsAdvancedSettingsShown": {
                       "ContextKey": "IsAdvancedSettingsShown",
@@ -66543,9 +66527,9 @@
             ],
             "resources": null,
             "localPosition": {
-              "x": -0.33380031422711909,
-              "y": 4.1001166963687865,
-              "z": -0.00084291063831187785
+              "x": -0.33380459906766191,
+              "y": 4.1002137113537174,
+              "z": -0.00086923543130978942
             },
             "originalAttachLocalPosition": {
               "x": 0.0,
@@ -66553,10 +66537,10 @@
               "z": 0.0
             },
             "localRotation": {
-              "x": 0.00017788702744780949,
-              "y": 2.2936407074070075E-05,
-              "z": 0.11999900908424799,
-              "w": -0.99277399594269955
+              "x": 0.00017863144123109187,
+              "y": 2.3085118120436121E-05,
+              "z": 0.1199996135183905,
+              "w": -0.992774038157209
             },
             "UserRotation": {
               "x": 0.0,
@@ -66567,7 +66551,7 @@
             "isMirrored": false,
             "StageIndex": 1,
             "FuelCrossfeed": true,
-            "Temperature": 215.16051914262357,
+            "Temperature": 229.4121611630182,
             "partPropertyOverrides": null
           },
           "PartModulesState": [
@@ -66589,7 +66573,7 @@
                     },
                     "thrustPercentage": {
                       "ContextKey": "thrustPercentage",
-                      "storedValue": 6.0
+                      "storedValue": 11.0
                     },
                     "IsAdvancedSettingsShown": {
                       "ContextKey": "IsAdvancedSettingsShown",
@@ -66807,9 +66791,9 @@
             ],
             "resources": null,
             "localPosition": {
-              "x": 0.00014315385487861931,
-              "y": 4.10026881279191,
-              "z": 0.33309817273402587
+              "x": 0.0001356415159534663,
+              "y": 4.1003787665395066,
+              "z": 0.333055327355396
             },
             "originalAttachLocalPosition": {
               "x": 0.0,
@@ -66817,10 +66801,10 @@
               "z": 0.0
             },
             "localRotation": {
-              "x": 0.084960979424488769,
-              "y": -0.70198307442411512,
-              "z": 0.084978175623322549,
-              "w": -0.70198307457238229
+              "x": 0.0849612214250488,
+              "y": -0.70198304939736467,
+              "z": 0.084979171706285328,
+              "w": -0.70198293375415055
             },
             "UserRotation": {
               "x": 0.0,
@@ -66831,7 +66815,7 @@
             "isMirrored": false,
             "StageIndex": 1,
             "FuelCrossfeed": true,
-            "Temperature": 212.56892437212653,
+            "Temperature": 229.41613879635221,
             "partPropertyOverrides": null
           },
           "PartModulesState": [
@@ -66853,7 +66837,7 @@
                     },
                     "thrustPercentage": {
                       "ContextKey": "thrustPercentage",
-                      "storedValue": 6.0
+                      "storedValue": 11.0
                     },
                     "IsAdvancedSettingsShown": {
                       "ContextKey": "IsAdvancedSettingsShown",
@@ -67071,9 +67055,9 @@
             ],
             "resources": null,
             "localPosition": {
-              "x": -0.20940206581144594,
-              "y": 0.79888382463832386,
-              "z": 0.35298425797373056
+              "x": -0.20943267809343524,
+              "y": 0.79889524415921187,
+              "z": 0.35299946326995268
             },
             "originalAttachLocalPosition": {
               "x": 0.0,
@@ -67081,10 +67065,10 @@
               "z": 0.0
             },
             "localRotation": {
-              "x": 0.70662011758196641,
-              "y": 0.029634556876746654,
-              "z": 0.01891812419461214,
-              "w": -0.70671917322543276
+              "x": 0.70661987341563837,
+              "y": 0.029637230255950442,
+              "z": 0.018915666539090381,
+              "w": -0.70671934084555055
             },
             "UserRotation": {
               "x": 0.0,
@@ -67095,7 +67079,7 @@
             "isMirrored": false,
             "StageIndex": 1,
             "FuelCrossfeed": true,
-            "Temperature": 231.99153137207031,
+            "Temperature": 232.81088256835938,
             "partPropertyOverrides": null
           },
           "PartModulesState": [
@@ -67213,9 +67197,9 @@
                   "DataObject": {
                     "$type": "KSP.Modules.Data_WheelSuspension, Assembly-CSharp",
                     "suspensionPos": {
-                      "x": -0.7999995,
-                      "y": -0.7399955,
-                      "z": 8.940698E-07
+                      "x": -0.7999898,
+                      "y": -0.740010858,
+                      "z": 2.41398757E-05
                     },
                     "suspensionDefaultPos": {
                       "x": -0.799999952,
@@ -67447,9 +67431,9 @@
             ],
             "resources": null,
             "localPosition": {
-              "x": 0.20968833347433247,
-              "y": 0.79896033763361629,
-              "z": 0.35278968437341973
+              "x": 0.20971958935842849,
+              "y": 0.79903248751361389,
+              "z": 0.3527544075041078
             },
             "originalAttachLocalPosition": {
               "x": 0.0,
@@ -67457,10 +67441,10 @@
               "z": 0.0
             },
             "localRotation": {
-              "x": -0.018928655124867078,
-              "y": 0.70674678274990654,
-              "z": -0.706593228976244,
-              "w": -0.029611935460305716
+              "x": -0.01893163469109882,
+              "y": 0.706747068286824,
+              "z": -0.70659279860157942,
+              "w": -0.029610875969818151
             },
             "UserRotation": {
               "x": 0.0,
@@ -67471,7 +67455,7 @@
             "isMirrored": true,
             "StageIndex": 1,
             "FuelCrossfeed": true,
-            "Temperature": 231.99153174219435,
+            "Temperature": 232.81088256835938,
             "partPropertyOverrides": null
           },
           "PartModulesState": [
@@ -67589,9 +67573,9 @@
                   "DataObject": {
                     "$type": "KSP.Modules.Data_WheelSuspension, Assembly-CSharp",
                     "suspensionPos": {
-                      "x": -0.799993932,
-                      "y": -0.7400011,
-                      "z": 6.79493041E-06
+                      "x": -0.799989939,
+                      "y": -0.73998,
+                      "z": -1.76727754E-05
                     },
                     "suspensionDefaultPos": {
                       "x": -0.799999952,
@@ -67823,9 +67807,9 @@
             ],
             "resources": null,
             "localPosition": {
-              "x": 0.36516855904483236,
-              "y": 0.76225067934137769,
-              "z": -0.00018853327492251992
+              "x": 0.36515593249350786,
+              "y": 0.762336974927166,
+              "z": -0.00021687254775315523
             },
             "originalAttachLocalPosition": {
               "x": 0.0,
@@ -67833,10 +67817,10 @@
               "z": 0.0
             },
             "localRotation": {
-              "x": -2.1526609888411485E-05,
-              "y": 0.00015841606568045563,
-              "z": 0.99277322942782487,
-              "w": 0.12000591907423619
+              "x": -2.3700102729673489E-05,
+              "y": 0.00015954365021242367,
+              "z": 0.99277292636139292,
+              "w": 0.12000791923931731
             },
             "UserRotation": {
               "x": 0.0,
@@ -67847,7 +67831,7 @@
             "isMirrored": false,
             "StageIndex": 0,
             "FuelCrossfeed": true,
-            "Temperature": 193.58943603930686,
+            "Temperature": 213.34179070817933,
             "partPropertyOverrides": null
           },
           "PartModulesState": [
@@ -68077,9 +68061,9 @@
             ],
             "resources": null,
             "localPosition": {
-              "x": -0.36495003703748807,
-              "y": 0.76218447941937484,
-              "z": -0.00010333387763239443
+              "x": -0.36495565260702278,
+              "y": 0.76221943552081939,
+              "z": -0.00014526781160384417
             },
             "originalAttachLocalPosition": {
               "x": 0.0,
@@ -68087,10 +68071,10 @@
               "z": 0.0
             },
             "localRotation": {
-              "x": -0.9927772938832633,
-              "y": -0.11997177187538366,
-              "z": 2.1657322151202862E-05,
-              "w": -0.0001630278792579265
+              "x": -0.99277714224248914,
+              "y": -0.11997273609182901,
+              "z": 2.4087461320654313E-05,
+              "w": -0.00016310364083249596
             },
             "UserRotation": {
               "x": 0.0,
@@ -68101,7 +68085,7 @@
             "isMirrored": true,
             "StageIndex": 0,
             "FuelCrossfeed": true,
-            "Temperature": 193.58953886129081,
+            "Temperature": 213.341759889368,
             "partPropertyOverrides": null
           },
           "PartModulesState": [
@@ -68331,9 +68315,9 @@
             ],
             "resources": null,
             "localPosition": {
-              "x": 0.333049307577312,
-              "y": 1.1740551845141454,
-              "z": -0.33299889066256583
+              "x": 0.33303085323132109,
+              "y": 1.1740726119533065,
+              "z": -0.33301258471328765
             },
             "originalAttachLocalPosition": {
               "x": 0.0,
@@ -68341,10 +68325,10 @@
               "z": 0.0
             },
             "localRotation": {
-              "x": 0.37990950961193892,
-              "y": 0.046059932594125996,
-              "z": 0.91719300958512662,
-              "w": 0.11092418307969432
+              "x": 0.37990984831997743,
+              "y": 0.046060147766096904,
+              "z": 0.9171928457840135,
+              "w": 0.11092438251817249
             },
             "UserRotation": {
               "x": 0.0,
@@ -68355,7 +68339,7 @@
             "isMirrored": false,
             "StageIndex": 1,
             "FuelCrossfeed": true,
-            "Temperature": 231.99153137207045,
+            "Temperature": 232.81088256835938,
             "partPropertyOverrides": null
           },
           "PartModulesState": [
@@ -68415,12 +68399,12 @@
                   "DataObject": {
                     "$type": "KSP.Modules.Data_SolarPanel, Assembly-CSharp",
                     "SimBlockingBody": "",
-                    "SimStarEnergyScale": 0.38895957315803964,
+                    "SimStarEnergyScale": 0.38895907533798668,
                     "RequestConfig": {
                       "FlowResource": {
                         "Value": 12
                       },
-                      "FlowUnits": 0.0071405866183340549,
+                      "FlowUnits": 0.0,
                       "TargetUnits": 0.0,
                       "FlowDirection": "FLOW_INBOUND",
                       "FlowModeOverride": "NULL",
@@ -68607,9 +68591,9 @@
             ],
             "resources": null,
             "localPosition": {
-              "x": -0.33294739932171069,
-              "y": 1.1740419817215297,
-              "z": -0.33299122244352475
+              "x": -0.33292429165157955,
+              "y": 1.1740760390748619,
+              "z": -0.33301442716037855
             },
             "originalAttachLocalPosition": {
               "x": 0.0,
@@ -68617,10 +68601,10 @@
               "z": 0.0
             },
             "localRotation": {
-              "x": -0.91720250160424222,
-              "y": -0.1109041898137022,
-              "z": -0.37989187136389813,
-              "w": -0.0460662536490859
+              "x": -0.91720260381969521,
+              "y": -0.11090425003180382,
+              "z": -0.37989142800241726,
+              "w": -0.046066576978550877
             },
             "UserRotation": {
               "x": 0.0,
@@ -68631,7 +68615,7 @@
             "isMirrored": true,
             "StageIndex": 1,
             "FuelCrossfeed": true,
-            "Temperature": 231.99153137207045,
+            "Temperature": 232.81088256835938,
             "partPropertyOverrides": null
           },
           "PartModulesState": [
@@ -68691,12 +68675,12 @@
                   "DataObject": {
                     "$type": "KSP.Modules.Data_SolarPanel, Assembly-CSharp",
                     "SimBlockingBody": "",
-                    "SimStarEnergyScale": 0.38895957315803964,
+                    "SimStarEnergyScale": 0.38895907533798668,
                     "RequestConfig": {
                       "FlowResource": {
                         "Value": 12
                       },
-                      "FlowUnits": 0.055960677564144135,
+                      "FlowUnits": 0.036695029586553574,
                       "TargetUnits": 0.0,
                       "FlowDirection": "FLOW_INBOUND",
                       "FlowModeOverride": "NULL",
@@ -68883,9 +68867,9 @@
             ],
             "resources": null,
             "localPosition": {
-              "x": 5.7766679674386978E-05,
-              "y": 0.79180673218797892,
-              "z": -0.36938171338988468
+              "x": 1.6010832041502E-05,
+              "y": 0.79181396879721433,
+              "z": -0.36938809166895226
             },
             "originalAttachLocalPosition": {
               "x": 0.0,
@@ -68893,10 +68877,10 @@
               "z": 0.0
             },
             "localRotation": {
-              "x": 0.70198783038570145,
-              "y": 0.084956441732076726,
-              "z": 0.70197947311901743,
-              "w": 0.0849722642651658
+              "x": 0.7019873925771396,
+              "y": 0.0849560908062994,
+              "z": 0.70197994239401673,
+              "w": 0.084971744303674157
             },
             "UserRotation": {
               "x": 0.0,
@@ -68907,7 +68891,7 @@
             "isMirrored": false,
             "StageIndex": 0,
             "FuelCrossfeed": true,
-            "Temperature": 193.58953886129081,
+            "Temperature": 213.34171798618632,
             "partPropertyOverrides": null
           },
           "PartModulesState": [
@@ -69137,9 +69121,9 @@
             ],
             "resources": null,
             "localPosition": {
-              "x": -0.431033568631392,
-              "y": 2.2017599551763851,
-              "z": -0.43137574300635606
+              "x": -0.43102694794652052,
+              "y": 2.201797271038231,
+              "z": -0.43140596884768456
             },
             "originalAttachLocalPosition": {
               "x": 0.0,
@@ -69147,10 +69131,10 @@
               "z": 0.0
             },
             "localRotation": {
-              "x": 0.6407073186846155,
-              "y": -0.24170215092999214,
-              "z": 0.29895437397350477,
-              "w": 0.6646055704976539
+              "x": 0.64070720465914466,
+              "y": -0.2417018110711906,
+              "z": 0.298954145368854,
+              "w": 0.6646058437020459
             },
             "UserRotation": {
               "x": 0.0,
@@ -69161,7 +69145,7 @@
             "isMirrored": false,
             "StageIndex": 1,
             "FuelCrossfeed": true,
-            "Temperature": 231.99170413512638,
+            "Temperature": 232.81088256835938,
             "partPropertyOverrides": null
           },
           "PartModulesState": [
@@ -69319,9 +69303,9 @@
             ],
             "resources": null,
             "localPosition": {
-              "x": -0.57782963159843348,
-              "y": 2.1853825231519295,
-              "z": -0.15516840358031914
+              "x": -0.5778113245323766,
+              "y": 2.1854172024541185,
+              "z": -0.15521187800914049
             },
             "originalAttachLocalPosition": {
               "x": 0.0,
@@ -69329,10 +69313,10 @@
               "z": 0.0
             },
             "localRotation": {
-              "x": 0.69623496028268583,
-              "y": -0.061507268577067009,
-              "z": 0.1228831323111983,
-              "w": 0.70453792588096054
+              "x": 0.69623469022650442,
+              "y": -0.061507008302224886,
+              "z": 0.12288274852005499,
+              "w": 0.704538170249879
             },
             "UserRotation": {
               "x": 0.0,
@@ -69343,7 +69327,7 @@
             "isMirrored": false,
             "StageIndex": 1,
             "FuelCrossfeed": true,
-            "Temperature": 231.99170413489327,
+            "Temperature": 232.81088256835938,
             "partPropertyOverrides": null
           },
           "PartModulesState": [
@@ -69501,9 +69485,9 @@
             ],
             "resources": null,
             "localPosition": {
-              "x": -0.582247064798139,
-              "y": 2.1735925420362037,
-              "z": 0.15574940774240531
+              "x": -0.58224703602900263,
+              "y": 2.1735893465520348,
+              "z": 0.15575545787578449
             },
             "originalAttachLocalPosition": {
               "x": 0.0,
@@ -69511,10 +69495,10 @@
               "z": 0.0
             },
             "localRotation": {
-              "x": 0.70431484090859975,
-              "y": 0.12287721614091218,
-              "z": -0.061560456259611485,
-              "w": 0.6964568739297663
+              "x": 0.70431445034918827,
+              "y": 0.12287740642327183,
+              "z": -0.061560828112349419,
+              "w": 0.69645709622248742
             },
             "UserRotation": {
               "x": 0.0,
@@ -69525,7 +69509,7 @@
             "isMirrored": false,
             "StageIndex": 1,
             "FuelCrossfeed": true,
-            "Temperature": 231.99170413467738,
+            "Temperature": 232.81088256835938,
             "partPropertyOverrides": null
           },
           "PartModulesState": [
@@ -69683,9 +69667,9 @@
             ],
             "resources": null,
             "localPosition": {
-              "x": -0.42460893472889438,
-              "y": 2.1648622230131878,
-              "z": 0.42439827244379558
+              "x": -0.42461169810849242,
+              "y": 2.1648977770455531,
+              "z": 0.42437237146077678
             },
             "originalAttachLocalPosition": {
               "x": 0.0,
@@ -69693,10 +69677,10 @@
               "z": 0.0
             },
             "localRotation": {
-              "x": -0.66439684586220782,
-              "y": -0.29888872392523069,
-              "z": 0.2418100803172214,
-              "w": -0.64091365963563129
+              "x": -0.66439657728055579,
+              "y": -0.29888888339575104,
+              "z": 0.24181047552286827,
+              "w": -0.64091369049161884
             },
             "UserRotation": {
               "x": 0.0,
@@ -69707,7 +69691,7 @@
             "isMirrored": false,
             "StageIndex": 1,
             "FuelCrossfeed": true,
-            "Temperature": 231.991704134536,
+            "Temperature": 232.81088256835938,
             "partPropertyOverrides": null
           },
           "PartModulesState": [
@@ -69865,9 +69849,9 @@
             ],
             "resources": null,
             "localPosition": {
-              "x": 3.8713478716090322E-05,
-              "y": 1.8886599245015532,
-              "z": -0.65553398538031615
+              "x": -4.6089407987892628E-06,
+              "y": 1.8887048763936036,
+              "z": -0.65556393412407488
             },
             "originalAttachLocalPosition": {
               "x": 0.0,
@@ -69875,10 +69859,10 @@
               "z": 0.0
             },
             "localRotation": {
-              "x": 0.7064273290312082,
-              "y": 0.031049874498981112,
-              "z": 0.70642145445058979,
-              "w": 0.031067175669164726
+              "x": 0.70642623197077015,
+              "y": 0.03104952453770693,
+              "z": 0.7064225422982453,
+              "w": 0.031067943756177385
             },
             "UserRotation": {
               "x": 0.0,
@@ -69889,7 +69873,7 @@
             "isMirrored": false,
             "StageIndex": 1,
             "FuelCrossfeed": true,
-            "Temperature": 223.13346582947733,
+            "Temperature": 232.81088256835938,
             "partPropertyOverrides": null
           },
           "PartModulesState": [
@@ -70117,9 +70101,9 @@
             ],
             "resources": null,
             "localPosition": {
-              "x": -1.4003133401274681E-05,
-              "y": 1.3250058208504925,
-              "z": -0.53270019707269967
+              "x": -5.1823299145326018E-06,
+              "y": 1.3250737144408049,
+              "z": -0.53270857525058091
             },
             "originalAttachLocalPosition": {
               "x": 0.0,
@@ -70127,10 +70111,10 @@
               "z": 0.0
             },
             "localRotation": {
-              "x": 0.46590477968553845,
-              "y": -0.46590287140633091,
-              "z": 0.53190295574838986,
-              "w": 0.53192713803170744
+              "x": 0.465904630417628,
+              "y": -0.46590479757864989,
+              "z": 0.53190247677451774,
+              "w": 0.53192615371351915
             },
             "UserRotation": {
               "x": 0.0,
@@ -70141,7 +70125,7 @@
             "isMirrored": false,
             "StageIndex": 1,
             "FuelCrossfeed": true,
-            "Temperature": 223.45297288482436,
+            "Temperature": 232.81088256835938,
             "partPropertyOverrides": null
           },
           "PartModulesState": [
@@ -70369,9 +70353,9 @@
             ],
             "resources": null,
             "localPosition": {
-              "x": 0.41175702566397376,
-              "y": 0.25608559165266342,
-              "z": -0.23767304621287622
+              "x": 0.41178940281679388,
+              "y": 0.2561267290438991,
+              "z": -0.23769307526526973
             },
             "originalAttachLocalPosition": {
               "x": 0.0,
@@ -70379,10 +70363,10 @@
               "z": 0.0
             },
             "localRotation": {
-              "x": 5.3709125979573E-05,
-              "y": 0.96592247226593386,
-              "z": -0.00016468680554471149,
-              "w": -0.25883199220915287
+              "x": 5.1876698175190583E-05,
+              "y": 0.96592186387163648,
+              "z": -0.00016537421019724441,
+              "w": -0.25883385125082436
             },
             "UserRotation": {
               "x": 0.0,
@@ -70393,7 +70377,7 @@
             "isMirrored": false,
             "StageIndex": 1,
             "FuelCrossfeed": true,
-            "Temperature": 208.69366472508227,
+            "Temperature": 226.33302307568749,
             "partPropertyOverrides": null
           },
           "PartModulesState": [
@@ -70431,8 +70415,8 @@
                       "ContextKey": "thrustPercentage",
                       "storedValue": 100.0
                     },
-                    "FinalThrustValue": 4.92152739,
-                    "RealISPValue": 297.8365,
+                    "FinalThrustValue": 0.0,
+                    "RealISPValue": 297.795227,
                     "stagingOn": {
                       "ContextKey": "stagingOn",
                       "storedValue": true
@@ -70441,14 +70425,14 @@
                     "Flameout": false,
                     "EngineIgnited": true,
                     "EngineShutdown": false,
-                    "currentThrottle": 0.3077643,
+                    "currentThrottle": 0.0,
                     "thrustCurveDisplay": 1.0,
                     "thrustCurveRatio": 1.0,
-                    "EngineSpool": 0.3077643,
+                    "EngineSpool": 0.0,
                     "ThrustDirRelativePartWorldSpace": {
-                      "x": 0.233675927,
-                      "y": -0.3684398,
-                      "z": -0.8998043
+                      "x": 0.492467,
+                      "y": -0.451996356,
+                      "z": -0.7437577
                     },
                     "currentEngineModeIndex": 0,
                     "ModuleType": "KSP.Modules.Module_Engine, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
@@ -70566,7 +70550,7 @@
                       "FlowResource": {
                         "Value": 12
                       },
-                      "FlowUnits": 0.46139319241046906,
+                      "FlowUnits": 0.0,
                       "TargetUnits": 0.0,
                       "FlowDirection": "FLOW_INBOUND",
                       "FlowModeOverride": "NULL",
@@ -70753,9 +70737,9 @@
             ],
             "resources": null,
             "localPosition": {
-              "x": -0.41178410837892443,
-              "y": 0.25616564594383817,
-              "z": -0.23752762991352938
+              "x": -0.4117611818946898,
+              "y": 0.25622319256217452,
+              "z": -0.2375333706731908
             },
             "originalAttachLocalPosition": {
               "x": 0.0,
@@ -70763,10 +70747,10 @@
               "z": 0.0
             },
             "localRotation": {
-              "x": 0.00013713391993930291,
-              "y": 0.25882437914436429,
-              "z": -2.73684812186481E-05,
-              "w": -0.96592448411998544
+              "x": 0.00013725304412415262,
+              "y": 0.25882579063623479,
+              "z": -2.6902104843129493E-05,
+              "w": -0.965923899719219
             },
             "UserRotation": {
               "x": 0.0,
@@ -70777,7 +70761,7 @@
             "isMirrored": false,
             "StageIndex": 1,
             "FuelCrossfeed": true,
-            "Temperature": 209.62005039270582,
+            "Temperature": 226.18784686100963,
             "partPropertyOverrides": null
           },
           "PartModulesState": [
@@ -70815,8 +70799,8 @@
                       "ContextKey": "thrustPercentage",
                       "storedValue": 100.0
                     },
-                    "FinalThrustValue": 4.92152739,
-                    "RealISPValue": 297.8365,
+                    "FinalThrustValue": 0.0,
+                    "RealISPValue": 297.795227,
                     "stagingOn": {
                       "ContextKey": "stagingOn",
                       "storedValue": true
@@ -70825,14 +70809,14 @@
                     "Flameout": false,
                     "EngineIgnited": true,
                     "EngineShutdown": false,
-                    "currentThrottle": 0.3077643,
+                    "currentThrottle": 0.0,
                     "thrustCurveDisplay": 1.0,
                     "thrustCurveRatio": 1.0,
-                    "EngineSpool": 0.3077643,
+                    "EngineSpool": 0.0,
                     "ThrustDirRelativePartWorldSpace": {
-                      "x": 0.168414488,
-                      "y": -0.239809588,
-                      "z": -0.9561004
+                      "x": 0.35536176,
+                      "y": -0.469106436,
+                      "z": -0.8084907
                     },
                     "currentEngineModeIndex": 0,
                     "ModuleType": "KSP.Modules.Module_Engine, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
@@ -70950,7 +70934,7 @@
                       "FlowResource": {
                         "Value": 12
                       },
-                      "FlowUnits": 0.46139319241046906,
+                      "FlowUnits": 0.0,
                       "TargetUnits": 0.0,
                       "FlowDirection": "FLOW_INBOUND",
                       "FlowModeOverride": "NULL",
@@ -71137,9 +71121,9 @@
             ],
             "resources": null,
             "localPosition": {
-              "x": 8.4553612396121025E-06,
-              "y": 0.25630303895741235,
-              "z": 0.47549823901499622
+              "x": 3.0415743822231889E-05,
+              "y": 0.25629960688820574,
+              "z": 0.47545758116757497
             },
             "originalAttachLocalPosition": {
               "x": 0.0,
@@ -71147,10 +71131,10 @@
               "z": 0.0
             },
             "localRotation": {
-              "x": 0.00013739786296529388,
-              "y": -0.70712474607046483,
-              "z": 0.00013955471690563215,
-              "w": -0.70708895876127453
+              "x": 0.00013719692810454376,
+              "y": -0.70712415163473352,
+              "z": 0.00014038898884649598,
+              "w": -0.70708934355768349
             },
             "UserRotation": {
               "x": 0.0,
@@ -71161,7 +71145,7 @@
             "isMirrored": false,
             "StageIndex": 1,
             "FuelCrossfeed": true,
-            "Temperature": 208.01054596357829,
+            "Temperature": 225.79787128158031,
             "partPropertyOverrides": null
           },
           "PartModulesState": [
@@ -71199,8 +71183,8 @@
                       "ContextKey": "thrustPercentage",
                       "storedValue": 100.0
                     },
-                    "FinalThrustValue": 4.92152739,
-                    "RealISPValue": 297.8365,
+                    "FinalThrustValue": 0.0,
+                    "RealISPValue": 297.795227,
                     "stagingOn": {
                       "ContextKey": "stagingOn",
                       "storedValue": true
@@ -71209,14 +71193,14 @@
                     "Flameout": false,
                     "EngineIgnited": true,
                     "EngineShutdown": false,
-                    "currentThrottle": 0.3077643,
+                    "currentThrottle": 0.0,
                     "thrustCurveDisplay": 1.0,
                     "thrustCurveRatio": 1.0,
-                    "EngineSpool": 0.3077643,
+                    "EngineSpool": 0.0,
                     "ThrustDirRelativePartWorldSpace": {
-                      "x": 0.2989698,
-                      "y": -0.231549144,
-                      "z": -0.925744057
+                      "x": 0.440072447,
+                      "y": -0.343723625,
+                      "z": -0.829572439
                     },
                     "currentEngineModeIndex": 0,
                     "ModuleType": "KSP.Modules.Module_Engine, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
@@ -71334,7 +71318,7 @@
                       "FlowResource": {
                         "Value": 12
                       },
-                      "FlowUnits": 0.46139319241046906,
+                      "FlowUnits": 0.0,
                       "TargetUnits": 0.0,
                       "FlowDirection": "FLOW_INBOUND",
                       "FlowModeOverride": "NULL",
@@ -71521,9 +71505,9 @@
             ],
             "resources": null,
             "localPosition": {
-              "x": -0.00013308008783496916,
-              "y": 0.45388238712621387,
-              "z": -0.25737877393839881
+              "x": -9.4936767709441483E-05,
+              "y": 0.45391971896606265,
+              "z": -0.25740832352312282
             },
             "originalAttachLocalPosition": {
               "x": 0.0,
@@ -71531,10 +71515,10 @@
               "z": 0.0
             },
             "localRotation": {
-              "x": 9.8307754138549086E-05,
-              "y": 0.70710634074688539,
-              "z": -9.1346675221259943E-05,
-              "w": -0.707107281193414
+              "x": 9.8891857565952535E-05,
+              "y": 0.70710629519423929,
+              "z": -9.1839250194958311E-05,
+              "w": -0.70710730155615753
             },
             "UserRotation": {
               "x": 0.0,
@@ -71545,7 +71529,7 @@
             "isMirrored": false,
             "StageIndex": 1,
             "FuelCrossfeed": true,
-            "Temperature": 213.6148022562964,
+            "Temperature": 229.03777316939735,
             "partPropertyOverrides": null
           },
           "PartModulesState": [
@@ -71681,7 +71665,7 @@
                     },
                     "AoA": {
                       "ContextKey": "AoA",
-                      "storedValue": -16.3611355
+                      "storedValue": -7.898206
                     },
                     "deflectionLiftCoeff": 0.0,
                     "CoPOffset": {
@@ -71824,9 +71808,9 @@
             ],
             "resources": null,
             "localPosition": {
-              "x": -0.22281622994341888,
-              "y": 0.453937966725789,
-              "z": 0.12874671770259738
+              "x": -0.22283719333063345,
+              "y": 0.45401091960957274,
+              "z": 0.12871890870155767
             },
             "originalAttachLocalPosition": {
               "x": 0.0,
@@ -71834,10 +71818,10 @@
               "z": 0.0
             },
             "localRotation": {
-              "x": 0.00015957124223309194,
-              "y": -0.25880461787851949,
-              "z": 1.6899985363139081E-05,
-              "w": -0.96592978687681885
+              "x": 0.00015964391021039415,
+              "y": -0.25880394642051752,
+              "z": 1.680534587500393E-05,
+              "w": -0.96592976600738367
             },
             "UserRotation": {
               "x": 0.0,
@@ -71848,7 +71832,7 @@
             "isMirrored": false,
             "StageIndex": 1,
             "FuelCrossfeed": true,
-            "Temperature": 213.50566631923544,
+            "Temperature": 228.99937478438505,
             "partPropertyOverrides": null
           },
           "PartModulesState": [
@@ -71984,7 +71968,7 @@
                     },
                     "AoA": {
                       "ContextKey": "AoA",
-                      "storedValue": 8.375416
+                      "storedValue": 3.63635468
                     },
                     "deflectionLiftCoeff": 0.0,
                     "CoPOffset": {
@@ -72127,9 +72111,9 @@
             ],
             "resources": null,
             "localPosition": {
-              "x": 0.22283680937835015,
-              "y": 0.45399413887935225,
-              "z": 0.12874105808441527
+              "x": 0.22280502106877975,
+              "y": 0.45403192057710839,
+              "z": 0.12873191823018715
             },
             "originalAttachLocalPosition": {
               "x": 0.0,
@@ -72137,10 +72121,10 @@
               "z": 0.0
             },
             "localRotation": {
-              "x": 1.0643646586316891E-06,
-              "y": -0.965929428579094,
-              "z": 0.00014678917561905536,
-              "w": -0.2588060688867575
+              "x": 7.7542591903068114E-07,
+              "y": -0.96592920028085949,
+              "z": 0.00014690478868395473,
+              "w": -0.25880646911049787
             },
             "UserRotation": {
               "x": 0.0,
@@ -72151,7 +72135,7 @@
             "isMirrored": false,
             "StageIndex": 1,
             "FuelCrossfeed": true,
-            "Temperature": 212.80478619065713,
+            "Temperature": 229.0541548343825,
             "partPropertyOverrides": null
           },
           "PartModulesState": [
@@ -72287,7 +72271,7 @@
                     },
                     "AoA": {
                       "ContextKey": "AoA",
-                      "storedValue": 7.81786
+                      "storedValue": 4.239638
                     },
                     "deflectionLiftCoeff": 0.0,
                     "CoPOffset": {
@@ -72393,11 +72377,11 @@
       ],
       "CameraGimbalSate": {
         "distance": 5.7532340230676056,
-        "pitch": 17.668080439791083,
-        "heading": 196.51046886015683,
+        "pitch": -0.11052699387073517,
+        "heading": 165.50289876479656,
         "roll": 0.0,
-        "localPitch": 196.51046886015686,
-        "localHeading": 17.66808043979108,
+        "localPitch": 165.50289876479656,
+        "localHeading": 359.88947300612926,
         "pan": {
           "x": 0.0,
           "y": 0.0
@@ -72638,7 +72622,7 @@
       {
         "TravelObjectId": "291f6596-66d5-482e-9d06-bb0277182dd3",
         "Statistics": {
-          "DistanceTravelled": 100262475469.11745,
+          "DistanceTravelled": 100262511694.55037,
           "GroundDistanceTravelled": 1.0635666349847603,
           "MaxAltitude": 10492173.296468027,
           "MaxGeeForce": 272.52164137520128,
@@ -72650,7 +72634,7 @@
       {
         "TravelObjectId": "28d4462a-141f-4ce2-ab19-1e2ad25244aa",
         "Statistics": {
-          "DistanceTravelled": 97043428347.751617,
+          "DistanceTravelled": 97043463329.135544,
           "GroundDistanceTravelled": 0.0,
           "MaxAltitude": 39436.746398171,
           "MaxGeeForce": 266.88284987212592,
@@ -72662,7 +72646,7 @@
       {
         "TravelObjectId": "9ff22038-5cc4-47e4-9b9b-2e59079b78c8",
         "Statistics": {
-          "DistanceTravelled": 24193652500.342415,
+          "DistanceTravelled": 24193661531.188515,
           "GroundDistanceTravelled": 0.42117782011274124,
           "MaxAltitude": 55135218.01963897,
           "MaxGeeForce": 49.382685703601879,
@@ -72674,7 +72658,7 @@
       {
         "TravelObjectId": "ea95093e-4249-4624-a29b-4fd4a72ad20d",
         "Statistics": {
-          "DistanceTravelled": 32054486090.416805,
+          "DistanceTravelled": 32054544640.474174,
           "GroundDistanceTravelled": 0.15391645109632648,
           "MaxAltitude": 21172551029.082664,
           "MaxGeeForce": 42.322606576327573,
@@ -72686,7 +72670,7 @@
       {
         "TravelObjectId": "2d825a9c-7606-4072-841e-cfff02e8213a",
         "Statistics": {
-          "DistanceTravelled": 45003163683.4256,
+          "DistanceTravelled": 45003290562.857033,
           "GroundDistanceTravelled": 0.15391645109632648,
           "MaxAltitude": 585082.551524492,
           "MaxGeeForce": 632.25490543847638,
@@ -72698,7 +72682,7 @@
       {
         "TravelObjectId": "f18be08e-6418-4cfa-b6c6-a9c94c5da785",
         "Statistics": {
-          "DistanceTravelled": 97551765455.892441,
+          "DistanceTravelled": 97552400413.377823,
           "GroundDistanceTravelled": 0.15391645109632648,
           "MaxAltitude": 13513022472.860418,
           "MaxGeeForce": 42.322606576327573,
@@ -72710,7 +72694,7 @@
       {
         "TravelObjectId": "d589c97d-5309-4a3e-a5a7-7f939ccad013",
         "Statistics": {
-          "DistanceTravelled": 32054923594.586845,
+          "DistanceTravelled": 32054936377.426796,
           "GroundDistanceTravelled": 0.15391645109632648,
           "MaxAltitude": 21172551029.082664,
           "MaxGeeForce": 42.322606576327573,
