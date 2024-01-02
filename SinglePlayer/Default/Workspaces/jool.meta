@@ -1,0 +1,15 @@
+{
+  "VersionString": "0.2",
+  "Name": "jool",
+  "VehicleName": "Big Science",
+  "Description": "",
+  "ThumbnailPath": "\\Saves\\SinglePlayer\\Default\\Workspaces\\jool.png",
+  "Mass": 1286.68176,
+  "SaveTime": 638398098780958651,
+  "Parts": 281,
+  "Stages": 7,
+  "IsAutoSave": false,
+  "CampaignName": "Default",
+  "IsBackupWorkspace": false,
+  "CriticalConcernLocTerms": []
+}

@@ -1,0 +1,17 @@
+{
+  "VersionString": "0.2",
+  "Name": "jool",
+  "VehicleName": "Big Science",
+  "Description": "AutoSaved workspace 01/02/2024 15:07",
+  "ThumbnailPath": "\\Saves\\SinglePlayer\\Default\\Workspaces\\AutoSave Default 01_02_2024 15_07.png",
+  "Mass": 109.9011,
+  "SaveTime": 638398048335401589,
+  "Parts": 136,
+  "Stages": 5,
+  "IsAutoSave": true,
+  "CampaignName": "Default",
+  "IsBackupWorkspace": false,
+  "CriticalConcernLocTerms": [
+    "VAB/EngineersReport/Flaws/NotEnoughThrust"
+  ]
+}
