@@ -1,0 +1,15 @@
+{
+  "VersionString": "0.2",
+  "Name": "eve",
+  "VehicleName": "eve probe",
+  "Description": "",
+  "ThumbnailPath": "\\Saves\\SinglePlayer\\Default\\Workspaces\\eve.png",
+  "Mass": 956.3678,
+  "SaveTime": 638397351079067330,
+  "Parts": 151,
+  "Stages": 8,
+  "IsAutoSave": false,
+  "CampaignName": "Default",
+  "IsBackupWorkspace": false,
+  "CriticalConcernLocTerms": []
+}
