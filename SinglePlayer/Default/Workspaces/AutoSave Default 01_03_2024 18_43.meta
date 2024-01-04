@@ -1,0 +1,17 @@
+{
+  "VersionString": "0.2",
+  "Name": "duna",
+  "VehicleName": "300t",
+  "Description": "AutoSaved workspace 01/03/2024 18:43",
+  "ThumbnailPath": "\\Saves\\SinglePlayer\\Default\\Workspaces\\AutoSave Default 01_03_2024 18_43.png",
+  "Mass": 2155.84155,
+  "SaveTime": 638399042146570684,
+  "Parts": 322,
+  "Stages": 7,
+  "IsAutoSave": true,
+  "CampaignName": "Default",
+  "IsBackupWorkspace": false,
+  "CriticalConcernLocTerms": [
+    "VAB/EngineersReport/Flaws/NotEnoughThrust"
+  ]
+}
