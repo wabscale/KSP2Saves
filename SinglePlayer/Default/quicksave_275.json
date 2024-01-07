@@ -1,14 +1,14 @@
 {
   "Metadata": {
     "VersionString": "0.1.0",
-    "Name": "autosave_4",
+    "Name": "quicksave_275",
     "Description": "",
-    "Filepath": "C:/users/steamuser/AppData/LocalLow/Intercept Games/Kerbal Space Program 2\\Saves\\SinglePlayer\\Default\\autosave_4.json",
-    "UniverseTime": 359971218.66266251,
-    "ThumbnailImagePath": "C:/users/steamuser/AppData/LocalLow/Intercept Games/Kerbal Space Program 2\\Saves\\SinglePlayer\\Default\\autosave_4.jpg",
+    "Filepath": "C:/users/steamuser/AppData/LocalLow/Intercept Games/Kerbal Space Program 2\\Saves\\SinglePlayer\\Default\\quicksave_275.json",
+    "UniverseTime": 359971216.44266462,
+    "ThumbnailImagePath": "C:/users/steamuser/AppData/LocalLow/Intercept Games/Kerbal Space Program 2\\Saves\\SinglePlayer\\Default\\quicksave_275.jpg",
     "HostPlayerActiveVesselName": "atmo transmit-12",
-    "SaveCreatedTime": "2024-01-07T20:23:33.5907738Z",
-    "SavedGameType": "Auto",
+    "SaveCreatedTime": "2024-01-07T20:23:31.356195Z",
+    "SavedGameType": "Quick",
     "AvailableScience": 1304.0,
     "CampaignType": "SinglePlayer",
     "NewPlayerIsFTUEEnabled": false,
@@ -1604,9 +1604,9 @@
           "referenceTransformGuid": "Minmus",
           "referenceFrameType": "Celestial",
           "localVelocity": {
-            "x": -2.2143623209988892,
-            "y": 62.899342372656612,
-            "z": 119.64252678781264
+            "x": -2.3986637028342148,
+            "y": 63.235518465527392,
+            "z": 119.45831049018405
           },
           "localAngularVelocity": {
             "x": 0.0,
@@ -1614,9 +1614,9 @@
             "z": 0.0
           },
           "localPosition": {
-            "x": -41786.868573157823,
-            "y": 76287.5227500265,
-            "z": -41631.100254851641
+            "x": -41781.701982450912,
+            "y": 76146.25172022538,
+            "z": -41898.8931554691
           },
           "localRotation": {
             "x": -0.51579320430755615,
@@ -3557,9 +3557,9 @@
           "referenceTransformGuid": "Jool",
           "referenceFrameType": "Celestial",
           "localVelocity": {
-            "x": -6048.0477615061864,
-            "y": -102.64540033176407,
-            "z": 7042.5304219358186
+            "x": -6039.242611457772,
+            "y": -102.60575045486213,
+            "z": 7054.5106142985333
           },
           "localAngularVelocity": {
             "x": 0.0,
@@ -3567,9 +3567,9 @@
             "z": 0.0
           },
           "localPosition": {
-            "x": 3857002.0970242973,
-            "y": 17285.044829581253,
-            "z": 5264921.8106088508
+            "x": 3870539.8586454941,
+            "y": 17514.92601302918,
+            "z": 5249133.1378264194
           },
           "localRotation": {
             "x": 0.069852106273174286,
@@ -3700,7 +3700,7 @@
             "isMirrored": false,
             "StageIndex": 0,
             "FuelCrossfeed": true,
-            "Temperature": 355.40191659788849,
+            "Temperature": 355.414030578391,
             "partPropertyOverrides": null
           },
           "PartModulesState": [
@@ -4884,12 +4884,12 @@
                   "DataObject": {
                     "$type": "KSP.Modules.Data_SolarPanel, Assembly-CSharp",
                     "SimBlockingBody": "",
-                    "SimStarEnergyScale": 0.034455106524810632,
+                    "SimStarEnergyScale": 0.034455122809168418,
                     "RequestConfig": {
                       "FlowResource": {
                         "Value": 12
                       },
-                      "FlowUnits": 0.034455106671568064,
+                      "FlowUnits": 0.034455122809168418,
                       "TargetUnits": 0.0,
                       "FlowDirection": "FLOW_INBOUND",
                       "FlowModeOverride": "NULL",
@@ -5160,12 +5160,12 @@
                   "DataObject": {
                     "$type": "KSP.Modules.Data_SolarPanel, Assembly-CSharp",
                     "SimBlockingBody": "",
-                    "SimStarEnergyScale": 0.034455106524810632,
+                    "SimStarEnergyScale": 0.034455122809168418,
                     "RequestConfig": {
                       "FlowResource": {
                         "Value": 12
                       },
-                      "FlowUnits": 0.034455106671568064,
+                      "FlowUnits": 0.034455122809168418,
                       "TargetUnits": 0.0,
                       "FlowDirection": "FLOW_INBOUND",
                       "FlowModeOverride": "NULL",
@@ -5436,12 +5436,12 @@
                   "DataObject": {
                     "$type": "KSP.Modules.Data_SolarPanel, Assembly-CSharp",
                     "SimBlockingBody": "",
-                    "SimStarEnergyScale": 0.034455106524810632,
+                    "SimStarEnergyScale": 0.034455122809168418,
                     "RequestConfig": {
                       "FlowResource": {
                         "Value": 12
                       },
-                      "FlowUnits": 0.034455106671568064,
+                      "FlowUnits": 0.034455122809168418,
                       "TargetUnits": 0.0,
                       "FlowDirection": "FLOW_INBOUND",
                       "FlowModeOverride": "NULL",
@@ -5712,12 +5712,12 @@
                   "DataObject": {
                     "$type": "KSP.Modules.Data_SolarPanel, Assembly-CSharp",
                     "SimBlockingBody": "",
-                    "SimStarEnergyScale": 0.034455106524810632,
+                    "SimStarEnergyScale": 0.034455122809168418,
                     "RequestConfig": {
                       "FlowResource": {
                         "Value": 12
                       },
-                      "FlowUnits": 0.034455106671568064,
+                      "FlowUnits": 0.034455122809168418,
                       "TargetUnits": 0.0,
                       "FlowDirection": "FLOW_INBOUND",
                       "FlowModeOverride": "NULL",
@@ -6992,7 +6992,7 @@
             "isMirrored": false,
             "StageIndex": 0,
             "FuelCrossfeed": true,
-            "Temperature": 299.58745732156473,
+            "Temperature": 299.18252352261544,
             "partPropertyOverrides": null
           },
           "PartModulesState": [
@@ -8638,7 +8638,7 @@
             "isMirrored": false,
             "StageIndex": 0,
             "FuelCrossfeed": true,
-            "Temperature": 318.87170921813646,
+            "Temperature": 318.80190297422905,
             "partPropertyOverrides": null
           },
           "PartModulesState": [
@@ -9822,12 +9822,12 @@
                   "DataObject": {
                     "$type": "KSP.Modules.Data_SolarPanel, Assembly-CSharp",
                     "SimBlockingBody": "",
-                    "SimStarEnergyScale": 0.034455106524810632,
+                    "SimStarEnergyScale": 0.034455122809168418,
                     "RequestConfig": {
                       "FlowResource": {
                         "Value": 12
                       },
-                      "FlowUnits": 0.034455106671568064,
+                      "FlowUnits": 0.034455122809168418,
                       "TargetUnits": 0.0,
                       "FlowDirection": "FLOW_INBOUND",
                       "FlowModeOverride": "NULL",
@@ -10098,12 +10098,12 @@
                   "DataObject": {
                     "$type": "KSP.Modules.Data_SolarPanel, Assembly-CSharp",
                     "SimBlockingBody": "",
-                    "SimStarEnergyScale": 0.034455106524810632,
+                    "SimStarEnergyScale": 0.034455122809168418,
                     "RequestConfig": {
                       "FlowResource": {
                         "Value": 12
                       },
-                      "FlowUnits": 0.034455106671568064,
+                      "FlowUnits": 0.034455122809168418,
                       "TargetUnits": 0.0,
                       "FlowDirection": "FLOW_INBOUND",
                       "FlowModeOverride": "NULL",
@@ -10374,12 +10374,12 @@
                   "DataObject": {
                     "$type": "KSP.Modules.Data_SolarPanel, Assembly-CSharp",
                     "SimBlockingBody": "",
-                    "SimStarEnergyScale": 0.034455106524810632,
+                    "SimStarEnergyScale": 0.034455122809168418,
                     "RequestConfig": {
                       "FlowResource": {
                         "Value": 12
                       },
-                      "FlowUnits": 0.034455106671568064,
+                      "FlowUnits": 0.034455122809168418,
                       "TargetUnits": 0.0,
                       "FlowDirection": "FLOW_INBOUND",
                       "FlowModeOverride": "NULL",
@@ -10650,12 +10650,12 @@
                   "DataObject": {
                     "$type": "KSP.Modules.Data_SolarPanel, Assembly-CSharp",
                     "SimBlockingBody": "",
-                    "SimStarEnergyScale": 0.034455106524810632,
+                    "SimStarEnergyScale": 0.034455122809168418,
                     "RequestConfig": {
                       "FlowResource": {
                         "Value": 12
                       },
-                      "FlowUnits": 0.034455106671568064,
+                      "FlowUnits": 0.034455122809168418,
                       "TargetUnits": 0.0,
                       "FlowDirection": "FLOW_INBOUND",
                       "FlowModeOverride": "NULL",
@@ -11750,7 +11750,7 @@
             "isMirrored": false,
             "StageIndex": 1,
             "FuelCrossfeed": true,
-            "Temperature": 312.47652573762412,
+            "Temperature": 312.45971143323476,
             "partPropertyOverrides": null
           },
           "PartModulesState": [
@@ -12878,9 +12878,9 @@
           "referenceTransformGuid": "Kerbol",
           "referenceFrameType": "Celestial",
           "localVelocity": {
-            "x": -5564.069611449373,
-            "y": 506.47823812807809,
-            "z": -3284.4225240809437
+            "x": -5564.0728824329481,
+            "y": 506.47862183365646,
+            "z": -3284.4223664782512
           },
           "localAngularVelocity": {
             "x": 0.0,
@@ -12888,9 +12888,9 @@
             "z": 0.0
           },
           "localPosition": {
-            "x": -27997132269.191746,
-            "y": 3284227829.4329724,
-            "z": 1348955232.1283324
+            "x": -27997119805.68401,
+            "y": 3284226694.9223695,
+            "z": 1348962589.2276061
           },
           "localRotation": {
             "x": 0.82730668929809592,
@@ -14868,9 +14868,9 @@
           "referenceTransformGuid": "Kerbol",
           "referenceFrameType": "Celestial",
           "localVelocity": {
-            "x": -5568.1958497468,
-            "y": 506.85203533240843,
-            "z": -3284.215047855143
+            "x": -5568.1991240011666,
+            "y": 506.85241948646279,
+            "z": -3284.2148889906889
           },
           "localAngularVelocity": {
             "x": 0.0,
@@ -14878,9 +14878,9 @@
             "z": 0.0
           },
           "localPosition": {
-            "x": -27982375555.235172,
-            "y": 3283050516.8239341,
-            "z": 1357680641.1569171
+            "x": -27982363082.484695,
+            "y": 3283049381.4760275,
+            "z": 1357687997.791429
           },
           "localRotation": {
             "x": -0.46645020990689023,
@@ -16824,7 +16824,7 @@
         "Situation": "Escaping",
         "ControlState": "NoControl",
         "CommandModulesState": "NotEnoughResources",
-        "MaxAltitudeReachedDuringFlight": 527980.002734784,
+        "MaxAltitudeReachedDuringFlight": 523256.96506422572,
         "CurrentControlOwnerPart": {
           "Guid": "7935414d-13f3-4ba6-a6e4-d3300eb6d04f",
           "DebugName": null
@@ -16858,9 +16858,9 @@
           "referenceTransformGuid": "Jool",
           "referenceFrameType": "Celestial",
           "localVelocity": {
-            "x": -6051.6868967747032,
-            "y": -102.07858817977635,
-            "z": 7051.5586115215
+            "x": -6042.8902269247092,
+            "y": -102.03856256661565,
+            "z": 7063.5368737589406
           },
           "localAngularVelocity": {
             "x": 0.0,
@@ -16868,9 +16868,9 @@
             "z": 0.0
           },
           "localPosition": {
-            "x": 3855844.312870475,
-            "y": 17460.561351924709,
-            "z": 5267564.4274996994
+            "x": 3869390.2356547136,
+            "y": 17689.172456149066,
+            "z": 5251755.5337673267
           },
           "localRotation": {
             "x": 0.26379290223121643,
@@ -19464,7 +19464,7 @@
       {
         "TravelObjectId": "9ff22038-5cc4-47e4-9b9b-2e59079b78c8",
         "Statistics": {
-          "DistanceTravelled": 47467990113.25322,
+          "DistanceTravelled": 47467989813.140617,
           "GroundDistanceTravelled": 0.42117782011274124,
           "MaxAltitude": 55135218.01963897,
           "MaxGeeForce": 67.089024988545219,
@@ -19524,7 +19524,7 @@
       {
         "TravelObjectId": "149f8fff-ccf5-43eb-ae27-93c0da05dc22",
         "Statistics": {
-          "DistanceTravelled": 7678654654.6204643,
+          "DistanceTravelled": 7678634041.5895462,
           "GroundDistanceTravelled": 1.2893500164717338,
           "MaxAltitude": 76617426415.714172,
           "MaxGeeForce": 50.820760943363318,
@@ -19536,7 +19536,7 @@
       {
         "TravelObjectId": "bfe301f3-2208-48ca-b29b-38fe53c5aa0c",
         "Statistics": {
-          "DistanceTravelled": 186646519572.22888,
+          "DistanceTravelled": 186646484571.46802,
           "GroundDistanceTravelled": 1.2893500164717338,
           "MaxAltitude": 76617426415.714172,
           "MaxGeeForce": 50.820760943363318,
@@ -19548,7 +19548,7 @@
       {
         "TravelObjectId": "14852691-9a80-40d4-a5ea-e7d0f51e31f1",
         "Statistics": {
-          "DistanceTravelled": 186637034154.42947,
+          "DistanceTravelled": 186636999145.97189,
           "GroundDistanceTravelled": 1.2893500164717338,
           "MaxAltitude": 76617426415.714172,
           "MaxGeeForce": 50.820760943363318,
@@ -19560,9 +19560,9 @@
       {
         "TravelObjectId": "5316f64f-886a-4863-8569-32d18f2cd1c5",
         "Statistics": {
-          "DistanceTravelled": 1318857.6153913187,
+          "DistanceTravelled": 1298224.1212087492,
           "GroundDistanceTravelled": 0.0,
-          "MaxAltitude": 528276.1787428353,
+          "MaxAltitude": 523593.33895698935,
           "MaxGeeForce": 0.752125890149816,
           "MaxSpeed": 9464.45901665819,
           "MaxSpeedOverGround": 91.777318358348438,
