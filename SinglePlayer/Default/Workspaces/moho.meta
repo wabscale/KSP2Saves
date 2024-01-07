@@ -1,0 +1,15 @@
+{
+  "VersionString": "0.2",
+  "Name": "moho",
+  "VehicleName": "moho lander",
+  "Description": "",
+  "ThumbnailPath": "\\Saves\\SinglePlayer\\Default\\Workspaces\\moho.png",
+  "Mass": 1047.17517,
+  "SaveTime": 638400305629058068,
+  "Parts": 235,
+  "Stages": 7,
+  "IsAutoSave": false,
+  "CampaignName": "Default",
+  "IsBackupWorkspace": false,
+  "CriticalConcernLocTerms": []
+}

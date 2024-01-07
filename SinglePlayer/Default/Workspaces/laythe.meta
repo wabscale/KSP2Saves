@@ -1,0 +1,15 @@
+{
+  "VersionString": "0.2",
+  "Name": "laythe",
+  "VehicleName": "lander",
+  "Description": "",
+  "ThumbnailPath": "\\Saves\\SinglePlayer\\Default\\Workspaces\\laythe.png",
+  "Mass": 1021.80682,
+  "SaveTime": 638401441615038792,
+  "Parts": 248,
+  "Stages": 8,
+  "IsAutoSave": false,
+  "CampaignName": "Default",
+  "IsBackupWorkspace": false,
+  "CriticalConcernLocTerms": []
+}

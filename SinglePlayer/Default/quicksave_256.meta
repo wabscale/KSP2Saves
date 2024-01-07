@@ -1,0 +1,15 @@
+{
+  "VersionString": "0.1.0",
+  "Name": "quicksave_256",
+  "Description": "",
+  "Filepath": "C:/users/steamuser/AppData/LocalLow/Intercept Games/Kerbal Space Program 2\\Saves\\SinglePlayer\\Default\\quicksave_256.json",
+  "UniverseTime": 288307554.14539361,
+  "ThumbnailImagePath": "C:/users/steamuser/AppData/LocalLow/Intercept Games/Kerbal Space Program 2\\Saves\\SinglePlayer\\Default\\quicksave_256.jpg",
+  "HostPlayerActiveVesselName": "moho lander-15",
+  "SaveCreatedTime": "2024-01-05T10:16:36.7985262Z",
+  "SavedGameType": "Quick",
+  "AvailableScience": 3786.0,
+  "CampaignType": "SinglePlayer",
+  "NewPlayerIsFTUEEnabled": false,
+  "GameMode": "ExplorationMode"
+}
