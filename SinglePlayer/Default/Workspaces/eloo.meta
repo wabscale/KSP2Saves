@@ -1,0 +1,15 @@
+{
+  "VersionString": "0.2",
+  "Name": "eloo",
+  "VehicleName": "fly by",
+  "Description": "",
+  "ThumbnailPath": "\\Saves\\SinglePlayer\\Default\\Workspaces\\eloo.png",
+  "Mass": 1009.83661,
+  "SaveTime": 638402674272476212,
+  "Parts": 254,
+  "Stages": 5,
+  "IsAutoSave": false,
+  "CampaignName": "Default",
+  "IsBackupWorkspace": false,
+  "CriticalConcernLocTerms": []
+}
