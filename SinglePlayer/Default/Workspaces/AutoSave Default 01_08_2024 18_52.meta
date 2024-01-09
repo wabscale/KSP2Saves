@@ -1,0 +1,17 @@
+{
+  "VersionString": "0.2",
+  "Name": "Jool",
+  "VehicleName": "Heavy Lift Fly By",
+  "Description": "AutoSaved workspace 01/08/2024 18:52",
+  "ThumbnailPath": "\\Saves\\SinglePlayer\\Default\\Workspaces\\AutoSave Default 01_08_2024 18_52.png",
+  "Mass": 319.7627,
+  "SaveTime": 638403367335184883,
+  "Parts": 193,
+  "Stages": 9,
+  "IsAutoSave": true,
+  "CampaignName": "Default",
+  "IsBackupWorkspace": false,
+  "CriticalConcernLocTerms": [
+    "VAB/EngineersReport/Flaws/NotEnoughThrust"
+  ]
+}

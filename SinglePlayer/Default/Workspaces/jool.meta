@@ -1,15 +1,17 @@
 {
   "VersionString": "0.2",
-  "Name": "jool",
-  "VehicleName": "atmo transmit",
-  "Description": "",
-  "ThumbnailPath": "\\Saves\\SinglePlayer\\Default\\Workspaces\\jool.png",
-  "Mass": 930.3904,
-  "SaveTime": 638402323398558438,
-  "Parts": 145,
-  "Stages": 7,
+  "Name": "Jool",
+  "VehicleName": "Heavy Lift Fly By",
+  "Description": "No Description",
+  "ThumbnailPath": "\\Saves\\SinglePlayer\\Default\\Workspaces\\Jool.png",
+  "Mass": 140.3227,
+  "SaveTime": 638403366544004700,
+  "Parts": 185,
+  "Stages": 6,
   "IsAutoSave": false,
   "CampaignName": "Default",
   "IsBackupWorkspace": false,
-  "CriticalConcernLocTerms": []
+  "CriticalConcernLocTerms": [
+    "VAB/EngineersReport/Flaws/NotEnoughThrust"
+  ]
 }
