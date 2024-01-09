@@ -1,0 +1,17 @@
+{
+  "VersionString": "0.2",
+  "Name": "eve",
+  "VehicleName": "Heavy Lift Fly By",
+  "Description": "AutoSaved workspace 01/08/2024 22:49",
+  "ThumbnailPath": "\\Saves\\SinglePlayer\\Default\\Workspaces\\AutoSave Default 01_08_2024 22_49.png",
+  "Mass": 1578.92432,
+  "SaveTime": 638403509925066428,
+  "Parts": 252,
+  "Stages": 14,
+  "IsAutoSave": true,
+  "CampaignName": "Default",
+  "IsBackupWorkspace": false,
+  "CriticalConcernLocTerms": [
+    "VAB/EngineersReport/Flaws/NotEnoughThrust"
+  ]
+}

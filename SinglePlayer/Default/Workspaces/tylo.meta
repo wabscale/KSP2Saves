@@ -1,0 +1,15 @@
+{
+  "VersionString": "0.2",
+  "Name": "tylo",
+  "VehicleName": "lander",
+  "Description": "lander wip",
+  "ThumbnailPath": "\\Saves\\SinglePlayer\\Default\\Workspaces\\tylo.png",
+  "Mass": 442.1995,
+  "SaveTime": 638403507150856629,
+  "Parts": 125,
+  "Stages": 3,
+  "IsAutoSave": false,
+  "CampaignName": "Default",
+  "IsBackupWorkspace": false,
+  "CriticalConcernLocTerms": []
+}

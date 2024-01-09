@@ -1,0 +1,17 @@
+{
+  "VersionString": "0.2",
+  "Name": "multi use",
+  "VehicleName": "Heavy Lift Fly By",
+  "Description": "AutoSaved workspace 01/09/2024 00:23",
+  "ThumbnailPath": "\\Saves\\SinglePlayer\\Default\\Workspaces\\AutoSave Default 01_09_2024 00_23.png",
+  "Mass": 174.5729,
+  "SaveTime": 638403566140584073,
+  "Parts": 37,
+  "Stages": 5,
+  "IsAutoSave": true,
+  "CampaignName": "Default",
+  "IsBackupWorkspace": true,
+  "CriticalConcernLocTerms": [
+    "VAB/EngineersReport/Flaws/NotEnoughThrust"
+  ]
+}
