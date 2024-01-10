@@ -1,14 +1,14 @@
 {
   "Metadata": {
     "VersionString": "0.1.0",
-    "Name": "autosave_5",
+    "Name": "quicksave_327",
     "Description": "",
-    "Filepath": "C:/users/steamuser/AppData/LocalLow/Intercept Games/Kerbal Space Program 2\\Saves\\SinglePlayer\\Default\\autosave_5.json",
-    "UniverseTime": 561636728.40896988,
-    "ThumbnailImagePath": "C:/users/steamuser/AppData/LocalLow/Intercept Games/Kerbal Space Program 2\\Saves\\SinglePlayer\\Default\\autosave_5.jpg",
+    "Filepath": "C:/users/steamuser/AppData/LocalLow/Intercept Games/Kerbal Space Program 2\\Saves\\SinglePlayer\\Default\\quicksave_327.json",
+    "UniverseTime": 561636724.66897345,
+    "ThumbnailImagePath": "C:/users/steamuser/AppData/LocalLow/Intercept Games/Kerbal Space Program 2\\Saves\\SinglePlayer\\Default\\quicksave_327.jpg",
     "HostPlayerActiveVesselName": "",
-    "SaveCreatedTime": "2024-01-10T01:53:34.1849459Z",
-    "SavedGameType": "Auto",
+    "SaveCreatedTime": "2024-01-10T01:53:30.4454357Z",
+    "SavedGameType": "Quick",
     "AvailableScience": 2685.0,
     "CampaignType": "SinglePlayer",
     "NewPlayerIsFTUEEnabled": false,
@@ -1867,9 +1867,9 @@
           "referenceTransformGuid": "Kerbol",
           "referenceFrameType": "Celestial",
           "localVelocity": {
-            "x": -6256.9523444895485,
-            "y": 121.21888640673117,
-            "z": 6044.7363777955106
+            "x": -6256.9372808497283,
+            "y": 121.21913475116639,
+            "z": 6044.7559677930631
           },
           "localAngularVelocity": {
             "x": 0.0,
@@ -1877,9 +1877,9 @@
             "z": 0.0
           },
           "localPosition": {
-            "x": 8118887339.1564884,
-            "y": 133851239.85448733,
-            "z": 10558496129.300364
+            "x": 8118910740.1077671,
+            "y": 133850786.49582016,
+            "z": 10558473521.971239
           },
           "localRotation": {
             "x": -0.08186185359954834,
@@ -4558,9 +4558,9 @@
           "referenceTransformGuid": "Kerbol",
           "referenceFrameType": "Celestial",
           "localVelocity": {
-            "x": -6250.2475537029677,
-            "y": 121.07352309537183,
-            "z": 6052.6406744747619
+            "x": -6250.2324676300486,
+            "y": 121.07377064182558,
+            "z": 6052.6602495716288
           },
           "localAngularVelocity": {
             "x": 0.0,
@@ -4568,9 +4568,9 @@
             "z": 0.0
           },
           "localPosition": {
-            "x": 8130056018.4786081,
-            "y": 133406019.11182871,
-            "z": 10549268485.065306
+            "x": 8130079394.35396,
+            "y": 133405566.29682115,
+            "z": 10549245848.17416
           },
           "localRotation": {
             "x": -0.11950567364692688,
@@ -6943,7 +6943,7 @@
       {
         "TravelObjectId": "1594a53e-347d-4988-9116-e6f9ecaaef67",
         "Statistics": {
-          "DistanceTravelled": 198061385786.61298,
+          "DistanceTravelled": 198061353245.8183,
           "GroundDistanceTravelled": 0.21068113787865739,
           "MaxAltitude": 13513269840.878134,
           "MaxGeeForce": 209.70682867066793,
@@ -6955,7 +6955,7 @@
       {
         "TravelObjectId": "fd74e4ca-f7ad-4eba-92cb-4e88939ea779",
         "Statistics": {
-          "DistanceTravelled": 198057799746.72937,
+          "DistanceTravelled": 198057767203.41382,
           "GroundDistanceTravelled": 0.21068113787865739,
           "MaxAltitude": 13513782258.207884,
           "MaxGeeForce": 209.70682867066793,
