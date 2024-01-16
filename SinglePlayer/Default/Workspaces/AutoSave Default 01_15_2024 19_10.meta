@@ -1,0 +1,17 @@
+{
+  "VersionString": "0.2",
+  "Name": "eloo",
+  "VehicleName": "jeb saver",
+  "Description": "AutoSaved workspace 01/15/2024 19:10",
+  "ThumbnailPath": "\\Saves\\SinglePlayer\\Default\\Workspaces\\AutoSave Default 01_15_2024 19_10.png",
+  "Mass": 128.0724,
+  "SaveTime": 638409426075350456,
+  "Parts": 17,
+  "Stages": 5,
+  "IsAutoSave": true,
+  "CampaignName": "Default",
+  "IsBackupWorkspace": false,
+  "CriticalConcernLocTerms": [
+    "VAB/EngineersReport/Flaws/NotEnoughThrust"
+  ]
+}

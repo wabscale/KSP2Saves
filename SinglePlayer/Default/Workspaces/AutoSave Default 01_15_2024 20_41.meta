@@ -1,0 +1,17 @@
+{
+  "VersionString": "0.2",
+  "Name": "gilly",
+  "VehicleName": "gilly lander",
+  "Description": "AutoSaved workspace 01/15/2024 20:41",
+  "ThumbnailPath": "\\Saves\\SinglePlayer\\Default\\Workspaces\\AutoSave Default 01_15_2024 20_41.png",
+  "Mass": 1037.87708,
+  "SaveTime": 638409480971033238,
+  "Parts": 158,
+  "Stages": 7,
+  "IsAutoSave": true,
+  "CampaignName": "Default",
+  "IsBackupWorkspace": false,
+  "CriticalConcernLocTerms": [
+    "VAB/EngineersReport/Flaws/NotEnoughThrust"
+  ]
+}
