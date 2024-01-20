@@ -1,0 +1,15 @@
+{
+  "VersionString": "0.2",
+  "Name": "pol",
+  "VehicleName": "pol lander",
+  "Description": "No Description",
+  "ThumbnailPath": "\\Saves\\SinglePlayer\\Default\\Workspaces\\pol.png",
+  "Mass": 1039.685,
+  "SaveTime": 638411160120607665,
+  "Parts": 159,
+  "Stages": 8,
+  "IsAutoSave": false,
+  "CampaignName": "Default",
+  "IsBackupWorkspace": false,
+  "CriticalConcernLocTerms": []
+}
