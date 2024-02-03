@@ -1,0 +1,15 @@
+{
+  "VersionString": "0.2",
+  "Name": "ike",
+  "VehicleName": "ike lander",
+  "Description": "No Description",
+  "ThumbnailPath": "\\Saves\\SinglePlayer\\Default\\Workspaces\\ike.png",
+  "Mass": 1072.52124,
+  "SaveTime": 638422390221941722,
+  "Parts": 192,
+  "Stages": 7,
+  "IsAutoSave": false,
+  "CampaignName": "Default",
+  "IsBackupWorkspace": false,
+  "CriticalConcernLocTerms": []
+}
