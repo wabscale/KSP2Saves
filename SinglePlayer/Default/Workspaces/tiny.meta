@@ -1,0 +1,17 @@
+{
+  "VersionString": "0.2",
+  "Name": "tiny",
+  "VehicleName": "plane",
+  "Description": "No Description",
+  "ThumbnailPath": "\\Saves\\SinglePlayer\\Default\\Workspaces\\tiny.png",
+  "Mass": 10.8277769,
+  "SaveTime": 638429375495587001,
+  "Parts": 15,
+  "Stages": 1,
+  "IsAutoSave": false,
+  "CampaignName": "Default",
+  "IsBackupWorkspace": false,
+  "CriticalConcernLocTerms": [
+    "VAB/EngineersReport/Flaws/NotEnoughThrust"
+  ]
+}

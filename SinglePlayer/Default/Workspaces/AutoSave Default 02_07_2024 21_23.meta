@@ -1,0 +1,17 @@
+{
+  "VersionString": "0.2",
+  "Name": "New Workspace",
+  "VehicleName": "New Workspace",
+  "Description": "AutoSaved workspace 02/07/2024 21:23",
+  "ThumbnailPath": "\\Saves\\SinglePlayer\\Default\\Workspaces\\AutoSave Default 02_07_2024 21_23.png",
+  "Mass": 43.12904,
+  "SaveTime": 638429378220274102,
+  "Parts": 28,
+  "Stages": 2,
+  "IsAutoSave": true,
+  "CampaignName": "Default",
+  "IsBackupWorkspace": false,
+  "CriticalConcernLocTerms": [
+    "VAB/EngineersReport/Flaws/NotEnoughThrust"
+  ]
+}

@@ -1,15 +1,17 @@
 {
   "VersionString": "0.2",
   "Name": "laythe",
-  "VehicleName": "unmanned chad transfer",
-  "Description": "",
+  "VehicleName": "md lander",
+  "Description": "No Description",
   "ThumbnailPath": "\\Saves\\SinglePlayer\\Default\\Workspaces\\laythe.png",
-  "Mass": 1892.78137,
-  "SaveTime": 638420744918891011,
-  "Parts": 306,
-  "Stages": 8,
+  "Mass": 72.537,
+  "SaveTime": 638429402880559672,
+  "Parts": 81,
+  "Stages": 6,
   "IsAutoSave": false,
   "CampaignName": "Default",
   "IsBackupWorkspace": false,
-  "CriticalConcernLocTerms": []
+  "CriticalConcernLocTerms": [
+    "VAB/EngineersReport/Flaws/NotEnoughThrust"
+  ]
 }
